@@ -1,0 +1,74 @@
+page-hello-ionic {
+   
+    .scroll-content  {
+       //background-image: url("../assets/imgs/bg.png");  
+       background-color: #F5F0EA;
+    }
+    .img_ad{
+        max-width: 150% !important;
+        margin-left: -43px;
+    }
+    .center{
+        margin: auto;
+        text-align: center;
+        //width: 1000%;
+        //border: 3px solid #73AD21;
+    }
+    ._center{
+        margin: auto;
+        text-align: center;
+        width: 60%;
+        padding: 10px;
+        font-size: 1.1em;
+    }
+    .descreption{
+        font-size: 16px;
+        color:#205666; 
+    }
+    .signin{
+       // position: fixed;
+       // bottom: 14%;
+       // width: 100%;
+    }
+    .createId{
+        color: #f4f4f4;
+        background-color: #205666;
+    }
+    .item-input .label-md , .item-input .label-ios{
+        color: wheat !important;
+    }
+    .loginInput{
+        background: transparent ;
+        padding-top: 5%;
+        margin-bottom: 0.8em;
+    }
+    
+    .text-input-md,.item-input ion-input{
+        color:white !important;
+    }
+    .borders{
+        border: 0.55px solid #f4f4f4;
+        border-bottom: 0.55px solid #f4f4f4 !important;
+    }
+    .mnText{
+        margin-bottom: 0.5em;
+        font-size: 1.1em;
+        color: white;
+    }
+    .text-input::-moz-placeholder {
+        color: white;
+        opacity: 0.6;
+      }
+      
+      .text-input:-ms-input-placeholder {
+        color: white;
+        opacity: 0.6;
+      }
+      
+      .text-input::-webkit-input-placeholder {
+        text-indent: 0;
+        color: white;
+        opacity: 0.6;
+      }
+    
+}

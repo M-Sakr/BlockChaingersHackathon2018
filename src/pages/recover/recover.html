@@ -1,0 +1,71 @@
+<!--
+  Generated template for the Identity1Page page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+    <ion-navbar>
+      <!--ion-title style="color: #1C65E9 !important">Welcome Screen</ion-title-->
+    </ion-navbar>
+  
+  </ion-header>
+  
+  
+  <ion-content >
+    <ion-grid style="width:100% ; height:100vh  ;padding: 0;">
+      <ion-row style="width:100% ; height:11vh">
+      </ion-row>
+      <ion-row style="width:100% ; height:10vh">
+          <ion-col col-1>
+          </ion-col>
+        <ion-col col-10 class="center">
+        <h3 style="color:#205666;font-weight: bold;">Enter the recovery codes</h3>
+        </ion-col>
+        <ion-col col-1>
+        </ion-col>
+      </ion-row>
+      <ion-row style="width:100% ; height:2vh">
+      </ion-row>
+      <ion-row style="width:100% ; height:10vh">
+          <ion-col col-1>
+            </ion-col>
+        <ion-col col-10 class="">
+                  <div><p class="mycolor">Only two out of the trhee recovery codes are needed to recover your ID</p></div>
+        </ion-col>
+        <ion-col col-1>
+          </ion-col>
+      </ion-row>
+      <ion-row style="width:100% ; height:30vh">
+          <ion-col col-1>
+            </ion-col>
+        <ion-col col-10 class="">
+            <ion-list>
+                <div class="mnText"><span class="cspan">Recovery code 1</span></div>
+                <ion-item class="borders">
+                  <ion-input type="text" class="phoneInput" placeholder="Enter code or scan"></ion-input>
+                  <ion-icon name="ios-qr-scanner" item-end></ion-icon>
+                </ion-item>    
+                <div class="mnText2 mnText"><span class="cspan">Recovery code 2</span></div>
+                <ion-item class="borders">
+                  <ion-input type="text" class="phoneInput" placeholder="Enter code or scan"></ion-input>
+                  <ion-icon name="ios-qr-scanner" item-end></ion-icon>
+                </ion-item>                     
+              </ion-list>      
+        </ion-col>
+        <ion-col col-1>
+          </ion-col>
+      </ion-row>
+      <ion-row style="width:100% ; height:5vh;">
+     
+      </ion-row>
+     
+      
+      <ion-row style="width:100% ; height:25vh">
+            <button ion-button full  button-full large class="next" (click)="gotoBackup2($event)">Recover</button>    
+            <p style="color:gray; margin-bottom: 0px;    font-size: 14px;" class="_center signin" >powered by <span style="color:#488aff;">tykn.tech </span></p>                                
+          </ion-row>
+    </ion-grid>   
+  </ion-content>
+  

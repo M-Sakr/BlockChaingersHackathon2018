@@ -1,0 +1,81 @@
+<!--ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Hello Ionic</ion-title>
+  </ion-navbar>
+</ion-header-->
+
+
+<ion-content style="overflow-y: scroll;">
+  <!--div class="center">
+    <img src="assets/imgs/phone1.png" border="0" width="160%" height= 160% alt="" class="img_ad">
+  <p class="descreption">This is an Universal Beneficiary Identity.
+    Add Your Identity to ensure that you are up to date with all of your objective.
+    You can do this.
+  </p>
+  </div>
+  
+    <p style="color:white;" class="_center signin">Already Signed up ? <span style="color:white;" (click)="Login($event)"> Login</span> </p>
+    <button ion-button full  large class="createId signin">Create Identity</button-->    
+      <ion-grid style="width:100%  ;padding: 0;height:100%;overflow-y: scroll;    height: 100vh;">
+        <ion-row responsive-sm style="width:100% ; height:15vh">
+        </ion-row>
+        <ion-row style="width:100% ;height: 11vh; background-color: white;" >
+            <ion-col col-3>
+              </ion-col>
+          <ion-col col-5 class="center">
+            <img  src="assets/imgs/510logo.png" border="0" alt="" class="img_ad">
+          </ion-col>
+          <ion-col col-3>
+          </ion-col>
+        </ion-row>
+        <ion-row style="width:100% ; height:35vh;  padding-top: 6%;">
+            <ion-col col-1>
+              </ion-col>
+          <ion-col col-10>
+              <p *ngIf="!loginFlag" class="descreption">This app contains your Universal Beneficiary Identity. 
+                </p>   
+                <p *ngIf="!loginFlag" class="descreption"> 
+                    You can use it to receive aid from various humanitarian organisations
+                  </p>       
+              
+                <ion-list *ngIf="loginFlag">
+
+                  <!--ion-item class="loginInput">
+                    <ion-label fixed>Username</ion-label>
+                    <ion-input type="text" value="" placeholder="Enter your username"></ion-input>
+                  </ion-item>
+                
+                  <ion-item class="loginInput" >
+                    <ion-label fixed>Password</ion-label>
+                    <ion-input type="password" placeholder="Enter the password"></ion-input>
+                  </ion-item-->
+                  <div class="mnText"><span>Username</span></div>
+                <ion-item class="borders loginInput">
+                  <ion-input type="text" placeholder="Enter your username" ></ion-input>
+                </ion-item> 
+                <div class="mnText"><span>Password</span></div>
+                <ion-item class="borders loginInput">
+                  <ion-input type="password" placeholder="Enter the password" ></ion-input>
+                </ion-item> 
+                
+                </ion-list> 
+          </ion-col>
+          <ion-col col-1>
+          </ion-col>
+        </ion-row>
+       
+        
+        <ion-row style="width:100% ; height:25vh">
+              <!--p *ngIf="!loginFlag" style="color:white; margin-bottom: 0px;" class="_center signin">Already Signed up ? <span style="color:white;" (click)="signup($event)"> Login</span> </p-->
+              <p style="color:#205666; margin-bottom: 0px;" class="_center signin" (click)="recover()">Or Recover your Id? </p>
+              <button *ngIf="!loginFlag" ion-button full  button-full large class="createId signin" (click)="createIdinity($event)">Create Identity</button>                    
+              <p style="color:gray; margin-bottom: 0px;    font-size: 14px;" class="_center signin" >powered by <span style="color:#488aff;">tykn.tech </span></p>
+              <!--p *ngIf="loginFlag" style="color:white; margin-bottom: 0px;" class="_center signin">Not Signed up  Yet? <span style="color:white;" (click)="Login($event)"> Sign Up</span> </p>
+              <button *ngIf="loginFlag" ion-button full  button-full large class="createId signin">Login</button-->                    
+            </ion-row>
+      </ion-grid>      
+    </ion-content>
+
