@@ -70,9 +70,11 @@ export class HelloIonicPage {
            })
           .catch(error => {
             console.log("error",error);
-            this.loader.dismiss();          
+            this.loader.dismiss();
+            this.alldataProvider.setvarkey("6VvWGzmdUk4D27JvYCPn76empZoyCBnBwE27X6Rs956E","B69G2dqg7jebwYCPbPvdL5");          
           }
           );
+
               
   }
 }

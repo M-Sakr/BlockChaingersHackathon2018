@@ -12,7 +12,7 @@ import { Injectable } from '@angular/core';
 @Injectable()
 export class AlldataProvider {
   
-  url :string = 'https://149.210.250.124:9000/';
+  url :string = 'https://redy.blockchain-innovation.org:9443/';
   verkey : string;
   did : string;
   name : string;
@@ -29,13 +29,14 @@ export class AlldataProvider {
        'Content-Type' :  'application/x-www-form-urlencoded'
       });
       let options = new RequestOptions({ headers: headers });
-    
+    console.log("url", this.url);
 
     return this.http
         .post(this.url + "create_identity",{},options)
         .toPromise()
         .then(this.extractData)
         .catch(this.handleError);
+
  }
  requestSharding(): Promise<any> {
   
@@ -78,6 +79,15 @@ recoverKey(): Promise<any> {
 
   return this.http
       .get('https://tsh-app.firebaseio.com/events.json')
+      .toPromise()
+      .then(this.extractData)
+      .catch(this.handleError);
+}
+testGet(): Promise<any> {
+    console.log("url", 'http://149.210.250.124:9000/get');
+
+  return this.http
+      .get('http://149.210.250.124:9000/get')
       .toPromise()
       .then(this.extractData)
       .catch(this.handleError);

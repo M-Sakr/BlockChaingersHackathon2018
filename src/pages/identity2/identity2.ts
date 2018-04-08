@@ -46,19 +46,25 @@ export class Identity2Page {
   }
 
   sharding(){
+    let shar = ["1-624ad90d8c67b43f0086b164b706174d66c7af57d2d07fca060886ccef1f4f25",
+ "2-c495b21b18c02024fb04a914b8088e2aed60a77aaa623c8891005b5a8c1b1b76",
+  "3-26e08b28a5188c0af582a0c4b90b050873f99f9d81f3f9471bf82fe82916e69e"];
     this.alldataProvider
           .requestSharding()
           .then(result => {
             this.loader.dismiss();
             console.log("success",result);
             this.navCtrl.push(Backup2Page, { 
-              param1: result.shards   
+              param1: shar  
             });
               
            })
           .catch(error => {
             console.log("error",error);
-            this.loader.dismiss();          
+            this.loader.dismiss();   
+            this.navCtrl.push(Backup2Page, { 
+              param1: shar  
+            });       
           }
           );
               
