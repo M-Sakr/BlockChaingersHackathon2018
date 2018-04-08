@@ -12,7 +12,7 @@ import { Injectable } from '@angular/core';
 @Injectable()
 export class AlldataProvider {
   
-  url :string = 'http://149.210.250.124:9000/';
+  url :string = 'https://149.210.250.124:9000/';
   verkey : string;
   did : string;
   name : string;
