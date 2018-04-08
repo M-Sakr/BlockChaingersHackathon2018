@@ -1,1 +1,945 @@
-webpackJsonp([0],{138:function(l,n){function u(l){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+l+"'.")})}u.keys=function(){return[]},u.resolve=u,l.exports=u,u.id=138},167:function(l,n){function u(l){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+l+"'.")})}u.keys=function(){return[]},u.resolve=u,l.exports=u,u.id=167},195:function(l,n,u){"use strict";function a(l){return F._19(0,[(l()(),F.Z(0,0,null,null,6,"button",[["class","item item-block"],["ion-item",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.openPage(l.context.$implicit)&&a}return a},al.b,al.a)),F.Y(1,1097728,null,3,ol.a,[tl.a,el.a,F.j,F.z,[2,il.a]],null,null),F._16(335544320,4,{contentLabel:0}),F._16(603979776,5,{_buttons:1}),F._16(603979776,6,{_icons:1}),F.Y(5,16384,null,0,sl.a,[],null,null),(l()(),F._18(6,2,["\n        ","\n      "]))],null,function(l,n){l(n,6,0,n.context.$implicit.title)})}function o(l){return F._19(0,[F._16(402653184,1,{nav:0}),(l()(),F.Z(1,0,null,null,28,"ion-menu",[["role","navigation"],["side","right"]],null,null,null,cl.b,cl.a)),F._15(6144,null,rl.a,null,[_l.a]),F.Y(3,245760,null,2,_l.a,[dl.a,F.j,el.a,hl.a,F.z,gl.a,pl.l,fl.a,ml.a],{content:[0,"content"],side:[1,"side"]},null),F._16(335544320,2,{menuContent:0}),F._16(335544320,3,{menuNav:0}),(l()(),F._18(-1,0,["\n\n  "])),(l()(),F.Z(7,0,null,0,10,"ion-header",[],null,null,null,null,null)),F.Y(8,16384,null,0,bl.a,[el.a,F.j,F.z,[2,Zl.a]],null,null),(l()(),F._18(-1,null,["\n    "])),(l()(),F.Z(10,0,null,null,6,"ion-toolbar",[["class","toolbar"]],[[2,"statusbar-padding",null]],null,null,yl.b,yl.a)),F.Y(11,49152,null,0,Yl.a,[el.a,F.j,F.z],null,null),(l()(),F._18(-1,3,["\n      "])),(l()(),F.Z(13,0,null,3,2,"ion-title",[],null,null,null,vl.b,vl.a)),F.Y(14,49152,null,0,wl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),(l()(),F._18(-1,0,["Pages"])),(l()(),F._18(-1,3,["\n    "])),(l()(),F._18(-1,null,["\n  "])),(l()(),F._18(-1,0,["\n\n  "])),(l()(),F.Z(19,0,null,0,9,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,jl.b,jl.a)),F.Y(20,4374528,[[2,4]],0,zl.a,[el.a,hl.a,fl.a,F.j,F.z,ml.a,gl.a,F.u,[2,Zl.a],[2,xl.a]],null,null),(l()(),F._18(-1,1,["\n    "])),(l()(),F.Z(22,0,null,1,5,"ion-list",[],null,null,null,null,null)),F.Y(23,16384,null,0,Il.a,[el.a,F.j,F.z,hl.a,pl.l,fl.a],null,null),(l()(),F._18(-1,null,["\n      "])),(l()(),F.U(16777216,null,null,1,null,a)),F.Y(26,802816,null,0,Pl.h,[F.I,F.F,F.p],{ngForOf:[0,"ngForOf"]},null),(l()(),F._18(-1,null,["\n    "])),(l()(),F._18(-1,1,["\n  "])),(l()(),F._18(-1,0,["\n\n"])),(l()(),F._18(-1,null,["\n\n"])),(l()(),F.Z(31,0,null,null,2,"ion-nav",[["swipeBackEnabled","false"]],null,null,null,Cl.b,Cl.a)),F._15(6144,null,rl.a,null,[Fl.a]),F.Y(33,4374528,[[1,4],["content",4]],0,Fl.a,[[2,Zl.a],[2,xl.a],ml.a,el.a,hl.a,F.j,F.u,F.z,F.i,pl.l,Tl.a,[2,Dl.a],fl.a,F.k],{swipeBackEnabled:[0,"swipeBackEnabled"],root:[1,"root"]},null),(l()(),F._18(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,3,0,F._13(n,33),"right");l(n,26,0,u.pages);l(n,33,0,"false",u.rootPage)},function(l,n){l(n,10,0,F._13(n,11)._sbPadding);l(n,19,0,F._13(n,20).statusbarPadding,F._13(n,20)._hasRefresher)})}function t(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"p",[["class","descreption"]],null,null,null,null,null)),(l()(),F._18(-1,null,["This app contains your Universal Beneficiary Identity. \n                "]))],null,null)}function e(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"p",[["class","descreption"]],null,null,null,null,null)),(l()(),F._18(-1,null,[" \n                    You can use it to receive aid from various humanitarian organisations\n                  "]))],null,null)}function i(l){return F._19(0,[(l()(),F.Z(0,0,null,null,33,"ion-list",[],null,null,null,null,null)),F.Y(1,16384,null,0,Il.a,[el.a,F.j,F.z,hl.a,pl.l,fl.a],null,null),(l()(),F._18(-1,null,["\n\n                  "])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(4,0,null,null,2,"div",[["class","mnText"]],null,null,null,null,null)),(l()(),F.Z(5,0,null,null,1,"span",[],null,null,null,null,null)),(l()(),F._18(-1,null,["Username"])),(l()(),F._18(-1,null,["\n                "])),(l()(),F.Z(8,0,null,null,9,"ion-item",[["class","borders loginInput item item-block"]],null,null,null,al.b,al.a)),F.Y(9,1097728,null,3,ol.a,[tl.a,el.a,F.j,F.z,[2,il.a]],null,null),F._16(335544320,1,{contentLabel:0}),F._16(603979776,2,{_buttons:1}),F._16(603979776,3,{_icons:1}),F.Y(13,16384,null,0,sl.a,[],null,null),(l()(),F._18(-1,2,["\n                  "])),(l()(),F.Z(15,0,null,3,1,"ion-input",[["placeholder","Enter your username"],["type","text"]],null,null,null,El.b,El.a)),F.Y(16,5423104,null,0,Ll.a,[el.a,hl.a,tl.a,ml.a,F.j,F.z,[2,zl.a],[2,ol.a],[2,ql.f],fl.a],{type:[0,"type"],placeholder:[1,"placeholder"]},null),(l()(),F._18(-1,2,["\n                "])),(l()(),F._18(-1,null,[" \n                "])),(l()(),F.Z(19,0,null,null,2,"div",[["class","mnText"]],null,null,null,null,null)),(l()(),F.Z(20,0,null,null,1,"span",[],null,null,null,null,null)),(l()(),F._18(-1,null,["Password"])),(l()(),F._18(-1,null,["\n                "])),(l()(),F.Z(23,0,null,null,9,"ion-item",[["class","borders loginInput item item-block"]],null,null,null,al.b,al.a)),F.Y(24,1097728,null,3,ol.a,[tl.a,el.a,F.j,F.z,[2,il.a]],null,null),F._16(335544320,4,{contentLabel:0}),F._16(603979776,5,{_buttons:1}),F._16(603979776,6,{_icons:1}),F.Y(28,16384,null,0,sl.a,[],null,null),(l()(),F._18(-1,2,["\n                  "])),(l()(),F.Z(30,0,null,3,1,"ion-input",[["placeholder","Enter the password"],["type","password"]],null,null,null,El.b,El.a)),F.Y(31,5423104,null,0,Ll.a,[el.a,hl.a,tl.a,ml.a,F.j,F.z,[2,zl.a],[2,ol.a],[2,ql.f],fl.a],{type:[0,"type"],placeholder:[1,"placeholder"]},null),(l()(),F._18(-1,2,["\n                "])),(l()(),F._18(-1,null,[" \n                \n                "]))],function(l,n){l(n,16,0,"text","Enter your username");l(n,31,0,"password","Enter the password")},null)}function s(l){return F._19(0,[(l()(),F.Z(0,0,null,null,2,"button",[["button-full",""],["class","createId signin"],["full",""],["ion-button",""],["large",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.createIdinity(u)&&a}return a},Ul.b,Ul.a)),F.Y(1,1097728,null,0,Rl.a,[[8,""],el.a,F.j,F.z],{large:[0,"large"],full:[1,"full"]},null),(l()(),F._18(-1,0,["Create Identity"]))],function(l,n){l(n,1,0,"","")},null)}function c(l){return F._19(0,[(l()(),F._18(-1,null,["\n\n\n"])),(l()(),F.Z(1,0,null,null,71,"ion-content",[["style","overflow-y: scroll;"]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,jl.b,jl.a)),F.Y(2,4374528,null,0,zl.a,[el.a,hl.a,fl.a,F.j,F.z,ml.a,gl.a,F.u,[2,Zl.a],[2,xl.a]],null,null),(l()(),F._18(-1,1,["\n  "])),(l()(),F._18(-1,1,["    \n      "])),(l()(),F.Z(5,0,null,1,66,"ion-grid",[["class","grid"],["style","width:100%  ;padding: 0;height:100%;overflow-y: scroll;    height: 100vh;"]],null,null,null,null,null)),F.Y(6,16384,null,0,$l.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(8,0,null,null,2,"ion-row",[["class","row"],["responsive-sm",""],["style","width:100% ; height:15vh"]],null,null,null,null,null)),F.Y(9,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(12,0,null,null,16,"ion-row",[["class","row"],["style","width:100% ;height: 11vh; background-color: white;"]],null,null,null,null,null)),F.Y(13,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(15,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(16,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(19,0,null,null,4,"ion-col",[["class","center col"],["col-5",""]],null,null,null,null,null)),F.Y(20,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(22,0,null,null,0,"img",[["alt",""],["border","0"],["class","img_ad"],["src","assets/imgs/510logo.png"]],null,null,null,null,null)),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(25,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(26,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(30,0,null,null,23,"ion-row",[["class","row"],["style","width:100% ; height:35vh;  padding-top: 6%;"]],null,null,null,null,null)),F.Y(31,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(33,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(34,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(37,0,null,null,11,"ion-col",[["class","col"],["col-10",""]],null,null,null,null,null)),F.Y(38,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n              "])),(l()(),F.U(16777216,null,null,1,null,t)),F.Y(41,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,["   \n                "])),(l()(),F.U(16777216,null,null,1,null,e)),F.Y(44,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,["       \n              \n                "])),(l()(),F.U(16777216,null,null,1,null,i)),F.Y(47,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,[" \n          "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(50,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(51,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n       \n        \n        "])),(l()(),F.Z(55,0,null,null,15,"ion-row",[["class","row"],["style","width:100% ; height:25vh"]],null,null,null,null,null)),F.Y(56,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(59,0,null,null,1,"p",[["class","_center signin"],["style","color:#205666; margin-bottom: 0px;"]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.recover()&&a}return a},null,null)),(l()(),F._18(-1,null,["Or Recover your Id? "])),(l()(),F._18(-1,null,["\n              "])),(l()(),F.U(16777216,null,null,1,null,s)),F.Y(63,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,["                    \n              "])),(l()(),F.Z(65,0,null,null,3,"p",[["class","_center signin"],["style","color:gray; margin-bottom: 0px;    font-size: 14px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["powered by "])),(l()(),F.Z(67,0,null,null,1,"span",[["style","color:#488aff;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["tykn.tech "])),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,["                    \n            "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,1,["      \n    "])),(l()(),F._18(-1,null,["\n\n"]))],function(l,n){var u=n.component;l(n,41,0,!u.loginFlag);l(n,44,0,!u.loginFlag);l(n,47,0,u.loginFlag);l(n,63,0,!u.loginFlag)},function(l,n){l(n,1,0,F._13(n,2).statusbarPadding,F._13(n,2)._hasRefresher)})}function r(l){return F._19(0,[(l()(),F.Z(0,0,null,null,7,"button",[["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==F._13(l,1).toggle()&&a}return a},null,null)),F.Y(1,1064960,null,0,Hl.a,[dl.a,[2,Zl.a],[2,Rl.a],[2,kl.a]],{menuToggle:[0,"menuToggle"]},null),F.Y(2,16384,null,1,Gl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),F._16(603979776,1,{_buttons:1}),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(5,0,null,null,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(6,147456,null,0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(-1,null,["\n    "]))],function(l,n){l(n,1,0,"");l(n,6,0,"menu")},function(l,n){l(n,0,0,F._13(n,1).isHidden);l(n,5,0,F._13(n,6)._hidden)})}function _(l){return F._19(0,[(l()(),F.Z(0,0,null,null,4,"h3",[["text-center",""]],null,null,null,null,null)),(l()(),F._18(1,null,["\n    ","\n    "])),(l()(),F.Z(2,0,null,null,1,"ion-icon",[["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(3,147456,null,0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(-1,null,["\n  "]))],function(l,n){l(n,3,0,n.component.selectedItem.icon)},function(l,n){l(n,1,0,n.component.selectedItem.title);l(n,2,0,F._13(n,3)._hidden)})}function d(l){return F._19(0,[(l()(),F.Z(0,0,null,null,4,"h4",[["text-center",""]],null,null,null,null,null)),(l()(),F._18(-1,null,["\n    You navigated here from "])),(l()(),F.Z(2,0,null,null,1,"b",[],null,null,null,null,null)),(l()(),F._18(3,null,["",""])),(l()(),F._18(-1,null,["\n  "]))],null,function(l,n){l(n,3,0,n.component.selectedItem.title)})}function h(l){return F._19(0,[(l()(),F.Z(0,0,null,null,13,"ion-header",[],null,null,null,null,null)),F.Y(1,16384,null,0,bl.a,[el.a,F.j,F.z,[2,Zl.a]],null,null),(l()(),F._18(-1,null,["\n  "])),(l()(),F.Z(3,0,null,null,9,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Kl.b,Kl.a)),F.Y(4,49152,null,0,kl.a,[ml.a,[2,Zl.a],[2,xl.a],el.a,F.j,F.z],null,null),(l()(),F._18(-1,3,["\n    "])),(l()(),F.U(16777216,null,0,1,null,r)),F.Y(7,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,3,["\n    "])),(l()(),F.Z(9,0,null,3,2,"ion-title",[],null,null,null,vl.b,vl.a)),F.Y(10,49152,null,0,wl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),(l()(),F._18(-1,0,["Item Details"])),(l()(),F._18(-1,3,["\n  "])),(l()(),F._18(-1,null,["\n"])),(l()(),F._18(-1,null,["\n\n"])),(l()(),F.Z(15,0,null,null,8,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,jl.b,jl.a)),F.Y(16,4374528,null,0,zl.a,[el.a,hl.a,fl.a,F.j,F.z,ml.a,gl.a,F.u,[2,Zl.a],[2,xl.a]],null,null),(l()(),F._18(-1,1,["\n  "])),(l()(),F.U(16777216,null,1,1,null,_)),F.Y(19,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,1,["\n  "])),(l()(),F.U(16777216,null,1,1,null,d)),F.Y(22,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,1,["\n"])),(l()(),F._18(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,7,0,!u.selectedItem);l(n,19,0,u.selectedItem);l(n,22,0,u.selectedItem)},function(l,n){l(n,3,0,F._13(n,4)._hidden,F._13(n,4)._sbPadding);l(n,15,0,F._13(n,16).statusbarPadding,F._13(n,16)._hasRefresher)})}function g(l){return F._19(0,[(l()(),F.Z(0,0,null,null,12,"button",[["class","item item-block"],["ion-item",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.itemTapped(u,l.context.$implicit)&&a}return a},al.b,al.a)),F.Y(1,1097728,null,3,ol.a,[tl.a,el.a,F.j,F.z,[2,il.a]],null,null),F._16(335544320,2,{contentLabel:0}),F._16(603979776,3,{_buttons:1}),F._16(603979776,4,{_icons:1}),F.Y(5,16384,null,0,sl.a,[],null,null),(l()(),F._18(-1,2,["\n      "])),(l()(),F.Z(7,0,null,0,1,"ion-icon",[["item-left",""],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(8,147456,[[4,4]],0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(9,2,["\n      ","\n      "])),(l()(),F.Z(10,0,null,4,1,"div",[["class","item-note"],["item-right",""]],null,null,null,null,null)),(l()(),F._18(11,null,["\n        ","\n      "])),(l()(),F._18(-1,2,["\n    "]))],function(l,n){l(n,8,0,F._2(1,"",n.context.$implicit.icon,""))},function(l,n){l(n,7,0,F._13(n,8)._hidden);l(n,9,0,n.context.$implicit.title);l(n,11,0,n.context.$implicit.note)})}function p(l){return F._19(0,[(l()(),F.Z(0,0,null,null,20,"ion-header",[],null,null,null,null,null)),F.Y(1,16384,null,0,bl.a,[el.a,F.j,F.z,[2,Zl.a]],null,null),(l()(),F._18(-1,null,["\n  "])),(l()(),F.Z(3,0,null,null,16,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Kl.b,Kl.a)),F.Y(4,49152,null,0,kl.a,[ml.a,[2,Zl.a],[2,xl.a],el.a,F.j,F.z],null,null),(l()(),F._18(-1,3,["\n    "])),(l()(),F.Z(6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==F._13(l,8).toggle()&&a}return a},Ul.b,Ul.a)),F.Y(7,1097728,[[1,4]],0,Rl.a,[[8,""],el.a,F.j,F.z],null,null),F.Y(8,1064960,null,0,Hl.a,[dl.a,[2,Zl.a],[2,Rl.a],[2,kl.a]],{menuToggle:[0,"menuToggle"]},null),F.Y(9,16384,null,1,Gl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),F._16(603979776,1,{_buttons:1}),(l()(),F._18(-1,0,["\n      "])),(l()(),F.Z(12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(13,147456,null,0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(-1,0,["\n    "])),(l()(),F._18(-1,3,["\n    "])),(l()(),F.Z(16,0,null,3,2,"ion-title",[],null,null,null,vl.b,vl.a)),F.Y(17,49152,null,0,wl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),(l()(),F._18(-1,0,["My First List"])),(l()(),F._18(-1,3,["\n  "])),(l()(),F._18(-1,null,["\n"])),(l()(),F._18(-1,null,["\n\n"])),(l()(),F.Z(22,0,null,null,9,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,jl.b,jl.a)),F.Y(23,4374528,null,0,zl.a,[el.a,hl.a,fl.a,F.j,F.z,ml.a,gl.a,F.u,[2,Zl.a],[2,xl.a]],null,null),(l()(),F._18(-1,1,["\n  "])),(l()(),F.Z(25,0,null,1,5,"ion-list",[],null,null,null,null,null)),F.Y(26,16384,null,0,Il.a,[el.a,F.j,F.z,hl.a,pl.l,fl.a],null,null),(l()(),F._18(-1,null,["\n    "])),(l()(),F.U(16777216,null,null,1,null,g)),F.Y(29,802816,null,0,Pl.h,[F.I,F.F,F.p],{ngForOf:[0,"ngForOf"]},null),(l()(),F._18(-1,null,["\n  "])),(l()(),F._18(-1,1,["\n"])),(l()(),F._18(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,8,0,"");l(n,13,0,"menu");l(n,29,0,u.items)},function(l,n){l(n,3,0,F._13(n,4)._hidden,F._13(n,4)._sbPadding);l(n,6,0,F._13(n,8).isHidden);l(n,12,0,F._13(n,13)._hidden);l(n,22,0,F._13(n,23).statusbarPadding,F._13(n,23)._hasRefresher)})}function f(l){return F._19(0,[(l()(),F._18(-1,null,["\n"])),(l()(),F.Z(1,0,null,null,7,"ion-header",[],null,null,null,null,null)),F.Y(2,16384,null,0,bl.a,[el.a,F.j,F.z,[2,Zl.a]],null,null),(l()(),F._18(-1,null,["\n\n  "])),(l()(),F.Z(4,0,null,null,3,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Kl.b,Kl.a)),F.Y(5,49152,null,0,kl.a,[ml.a,[2,Zl.a],[2,xl.a],el.a,F.j,F.z],null,null),(l()(),F._18(-1,3,["\n    "])),(l()(),F._18(-1,3,["\n  "])),(l()(),F._18(-1,null,["\n\n"])),(l()(),F._18(-1,null,["\n\n\n"])),(l()(),F.Z(10,0,null,null,117,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,jl.b,jl.a)),F.Y(11,4374528,null,0,zl.a,[el.a,hl.a,fl.a,F.j,F.z,ml.a,gl.a,F.u,[2,Zl.a],[2,xl.a]],null,null),(l()(),F._18(-1,1,["\n  "])),(l()(),F.Z(13,0,null,1,113,"ion-grid",[["class","grid"],["style","width:100% ; height:100vh  ;padding: 0;"]],null,null,null,null,null)),F.Y(14,16384,null,0,$l.a,[],null,null),(l()(),F._18(-1,null,["\n    "])),(l()(),F.Z(16,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:15vh"]],null,null,null,null,null)),F.Y(17,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n    "])),(l()(),F._18(-1,null,["\n    "])),(l()(),F.Z(20,0,null,null,25,"ion-row",[["class","row"],["style","width:100% ; height:13vh"]],null,null,null,null,null)),F.Y(21,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(23,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(24,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(27,0,null,null,13,"ion-col",[["class"," col"],["col-6",""],["style","text-align: -webkit-center;"]],null,null,null,null,null)),F.Y(28,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(30,0,null,null,9,"div",[["class","takephoto"]],null,null,null,null,null)),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(32,0,null,null,1,"ion-icon",[["class","cicon"],["ios","ios-camera"],["md","md-camera"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(33,147456,null,0,Jl.a,[el.a,F.j,F.z],{ios:[0,"ios"],md:[1,"md"]},null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(35,0,null,null,3,"div",[["style","margin-bottom: 13px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,[" "])),(l()(),F.Z(37,0,null,null,1,"span",[["style","color:red"]],null,null,null,null,null)),(l()(),F._18(-1,null,["take a photo"])),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(42,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(43,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n    "])),(l()(),F._18(-1,null,["\n    "])),(l()(),F.Z(47,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:7vh"]],null,null,null,null,null)),F.Y(48,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n    "])),(l()(),F._18(-1,null,["\n    "])),(l()(),F.Z(51,0,null,null,54,"ion-row",[["class","row"],["style","width:100% ; height:14vh"]],null,null,null,null,null)),F.Y(52,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(54,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(55,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(58,0,null,null,42,"ion-col",[["class"," col"],["col-10",""]],null,null,null,null,null)),F.Y(59,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(61,0,null,null,38,"ion-list",[],null,null,null,null,null)),F.Y(62,16384,null,0,Il.a,[el.a,F.j,F.z,hl.a,pl.l,fl.a],null,null),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(64,0,null,null,2,"div",[["class","mnText"]],null,null,null,null,null)),(l()(),F.Z(65,0,null,null,1,"span",[["class","cspan"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Name"])),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(68,0,null,null,12,"ion-item",[["class","borders item item-block"]],null,null,null,al.b,al.a)),F.Y(69,1097728,null,3,ol.a,[tl.a,el.a,F.j,F.z,[2,il.a]],null,null),F._16(335544320,1,{contentLabel:0}),F._16(603979776,2,{_buttons:1}),F._16(603979776,3,{_icons:1}),F.Y(73,16384,null,0,sl.a,[],null,null),(l()(),F._18(-1,2,["\n                "])),(l()(),F.Z(75,0,null,3,4,"ion-input",[["class","phoneInput"],["placeholder","Enter your full name"],["type","text"]],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],[[null,"ngModelChange"]],function(l,n,u){var a=!0;if("ngModelChange"===n){a=!1!==(l.component.name=u)&&a}return a},El.b,El.a)),F.Y(76,671744,null,0,ql.h,[[8,null],[8,null],[8,null],[8,null]],{model:[0,"model"]},{update:"ngModelChange"}),F._15(2048,null,ql.f,null,[ql.h]),F.Y(78,16384,null,0,ql.g,[ql.f],null,null),F.Y(79,5423104,null,0,Ll.a,[el.a,hl.a,tl.a,ml.a,F.j,F.z,[2,zl.a],[2,ol.a],[2,ql.f],fl.a],{type:[0,"type"],placeholder:[1,"placeholder"]},null),(l()(),F._18(-1,2,["\n              "])),(l()(),F._18(-1,null,["    \n              "])),(l()(),F.Z(82,0,null,null,2,"div",[["class","mnText2 mnText"]],null,null,null,null,null)),(l()(),F.Z(83,0,null,null,1,"span",[["class","cspan"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Date Of Birth"])),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(86,0,null,null,12,"ion-item",[["class","borders item item-block"]],null,null,null,al.b,al.a)),F.Y(87,1097728,null,3,ol.a,[tl.a,el.a,F.j,F.z,[2,il.a]],null,null),F._16(335544320,4,{contentLabel:0}),F._16(603979776,5,{_buttons:1}),F._16(603979776,6,{_icons:1}),F.Y(91,16384,null,0,sl.a,[],null,null),(l()(),F._18(-1,2,["\n                "])),(l()(),F.Z(93,0,null,3,4,"ion-input",[["class","phoneInput"],["placeholder","Enter your date of birth"],["type","text"]],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],[[null,"ngModelChange"]],function(l,n,u){var a=!0;if("ngModelChange"===n){a=!1!==(l.component.dob=u)&&a}return a},El.b,El.a)),F.Y(94,671744,null,0,ql.h,[[8,null],[8,null],[8,null],[8,null]],{model:[0,"model"]},{update:"ngModelChange"}),F._15(2048,null,ql.f,null,[ql.h]),F.Y(96,16384,null,0,ql.g,[ql.f],null,null),F.Y(97,5423104,null,0,Ll.a,[el.a,hl.a,tl.a,ml.a,F.j,F.z,[2,zl.a],[2,ol.a],[2,ql.f],fl.a],{type:[0,"type"],placeholder:[1,"placeholder"]},null),(l()(),F._18(-1,2,["\n              "])),(l()(),F._18(-1,null,["                     \n            "])),(l()(),F._18(-1,null,["      \n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(102,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(103,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n    "])),(l()(),F._18(-1,null,["\n    "])),(l()(),F.Z(107,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:11vh;"]],null,null,null,null,null)),F.Y(108,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n   \n    "])),(l()(),F._18(-1,null,["\n   \n    \n    "])),(l()(),F.Z(111,0,null,null,14,"ion-row",[["class","row"],["style","width:100% ; height:25vh"]],null,null,null,null,null)),F.Y(112,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(114,0,null,null,1,"p",[["class","_center"],["style","color:grey; margin-bottom: 0px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Your info is stored only on this device"])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(117,0,null,null,2,"button",[["button-full",""],["class","next"],["full",""],["ion-button",""],["large",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.gotoIdentity2(u)&&a}return a},Ul.b,Ul.a)),F.Y(118,1097728,null,0,Rl.a,[[8,""],el.a,F.j,F.z],{large:[0,"large"],full:[1,"full"]},null),(l()(),F._18(-1,0,["Next"])),(l()(),F._18(-1,null,["    \n          "])),(l()(),F.Z(121,0,null,null,3,"p",[["class","_center signin"],["style","color:gray; margin-bottom: 0px;    font-size: 14px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["powered by "])),(l()(),F.Z(123,0,null,null,1,"span",[["style","color:#488aff;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["tykn.tech "])),(l()(),F._18(-1,null,["                                \n        "])),(l()(),F._18(-1,null,["\n  "])),(l()(),F._18(-1,1,["   \n"])),(l()(),F._18(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,33,0,"ios-camera","md-camera");l(n,76,0,u.name);l(n,79,0,"text","Enter your full name");l(n,94,0,u.dob);l(n,97,0,"text","Enter your date of birth");l(n,118,0,"","")},function(l,n){l(n,4,0,F._13(n,5)._hidden,F._13(n,5)._sbPadding);l(n,10,0,F._13(n,11).statusbarPadding,F._13(n,11)._hasRefresher);l(n,32,0,F._13(n,33)._hidden);l(n,75,0,F._13(n,78).ngClassUntouched,F._13(n,78).ngClassTouched,F._13(n,78).ngClassPristine,F._13(n,78).ngClassDirty,F._13(n,78).ngClassValid,F._13(n,78).ngClassInvalid,F._13(n,78).ngClassPending);l(n,93,0,F._13(n,96).ngClassUntouched,F._13(n,96).ngClassTouched,F._13(n,96).ngClassPristine,F._13(n,96).ngClassDirty,F._13(n,96).ngClassValid,F._13(n,96).ngClassInvalid,F._13(n,96).ngClassPending)})}function m(l){return F._19(0,[(l()(),F._18(-1,null,["\n"])),(l()(),F.Z(1,0,null,null,7,"ion-header",[],null,null,null,null,null)),F.Y(2,16384,null,0,bl.a,[el.a,F.j,F.z,[2,Zl.a]],null,null),(l()(),F._18(-1,null,["\n\n    "])),(l()(),F.Z(4,0,null,null,3,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Kl.b,Kl.a)),F.Y(5,49152,null,0,kl.a,[ml.a,[2,Zl.a],[2,xl.a],el.a,F.j,F.z],null,null),(l()(),F._18(-1,3,["\n      "])),(l()(),F._18(-1,3,["\n    "])),(l()(),F._18(-1,null,["\n  \n  "])),(l()(),F._18(-1,null,["\n  \n  \n  "])),(l()(),F.Z(10,0,null,null,94,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,jl.b,jl.a)),F.Y(11,4374528,null,0,zl.a,[el.a,hl.a,fl.a,F.j,F.z,ml.a,gl.a,F.u,[2,Zl.a],[2,xl.a]],null,null),(l()(),F._18(-1,1,["\n    "])),(l()(),F.Z(13,0,null,1,90,"ion-grid",[["class","grid"],["style","width:100% ; height:100vh  ;padding: 0;"]],null,null,null,null,null)),F.Y(14,16384,null,0,$l.a,[],null,null),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(16,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:11vh"]],null,null,null,null,null)),F.Y(17,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(20,0,null,null,17,"ion-row",[["class","row"],["style","width:100% ; height:13vh"]],null,null,null,null,null)),F.Y(21,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(23,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(24,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(27,0,null,null,5,"ion-col",[["class","center col"],["col-10",""]],null,null,null,null,null)),F.Y(28,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(30,0,null,null,1,"h3",[["style","color:#205666;font-weight: bold;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Backup your Red Cross ID"])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(34,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(35,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(39,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:2vh"]],null,null,null,null,null)),F.Y(40,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(43,0,null,null,18,"ion-row",[["class","row"],["style","width:100% ; height:14vh"]],null,null,null,null,null)),F.Y(44,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(46,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(47,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(50,0,null,null,6,"ion-col",[["class"," col"],["col-10",""]],null,null,null,null,null)),F.Y(51,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(53,0,null,null,2,"div",[],null,null,null,null,null)),(l()(),F.Z(54,0,null,null,1,"p",[["class","mycolor"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Your ID backup consists of three recovery codes. Save one your self and share the other two with people you trust."])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(58,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(59,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(63,0,null,null,19,"ion-row",[["class","row"],["style","width:100% ; height:14vh"]],null,null,null,null,null)),F.Y(64,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(66,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(67,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(70,0,null,null,7,"ion-col",[["class"," col"],["col-10",""]],null,null,null,null,null)),F.Y(71,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(73,0,null,null,3,"div",[],null,null,null,null,null)),(l()(),F.Z(74,0,null,null,1,"p",[["class","mycolor"]],null,null,null,null,null)),(l()(),F._18(-1,null,["If you lose your phone you can recover your ID by bringing back the codes."])),(l()(),F._18(-1,null,["  "])),(l()(),F._18(-1,null,["         \n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(79,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(80,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(84,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:5vh;"]],null,null,null,null,null)),F.Y(85,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n     \n      "])),(l()(),F._18(-1,null,["\n     \n      \n      "])),(l()(),F.Z(88,0,null,null,14,"ion-row",[["class","row"],["style","width:100% ; height:25vh"]],null,null,null,null,null)),F.Y(89,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(91,0,null,null,1,"p",[["class","_center"],["style","color:grey; margin-bottom: 0px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Skip for now"])),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(94,0,null,null,2,"button",[["button-full",""],["class","next"],["full",""],["ion-button",""],["large",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.gotoBackup2(u)&&a}return a},Ul.b,Ul.a)),F.Y(95,1097728,null,0,Rl.a,[[8,""],el.a,F.j,F.z],{large:[0,"large"],full:[1,"full"]},null),(l()(),F._18(-1,0,["Start"])),(l()(),F._18(-1,null,["    \n            "])),(l()(),F.Z(98,0,null,null,3,"p",[["class","_center signin"],["style","color:gray; margin-bottom: 0px;    font-size: 14px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["powered by "])),(l()(),F.Z(100,0,null,null,1,"span",[["style","color:#488aff;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["tykn.tech "])),(l()(),F._18(-1,null,["                                \n          "])),(l()(),F._18(-1,null,["\n    "])),(l()(),F._18(-1,1,["   \n  "])),(l()(),F._18(-1,null,["\n  "]))],function(l,n){l(n,95,0,"","")},function(l,n){l(n,4,0,F._13(n,5)._hidden,F._13(n,5)._sbPadding);l(n,10,0,F._13(n,11).statusbarPadding,F._13(n,11)._hasRefresher)})}function b(l){return F._19(0,[(l()(),F.Z(0,0,null,null,8,"ion-col",[["class"," col"],["col-10",""]],null,null,null,null,null)),F.Y(1,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                              "])),(l()(),F.Z(3,0,null,null,4,"div",[],null,null,null,null,null)),(l()(),F.Z(4,0,null,null,3,"p",[["class","mycolor"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Safely store the below code somewhere "])),(l()(),F.Z(6,0,null,null,1,"span",[["style","font-weight:bold"]],null,null,null,null,null)),(l()(),F._18(7,null,[" ","/3"])),(l()(),F._18(-1,null,["\n                    "]))],null,function(l,n){l(n,7,0,n.parent.context.$implicit.id)})}function Z(l){return F._19(0,[(l()(),F.Z(0,0,null,null,8,"ion-col",[["class"," col"],["col-10",""]],null,null,null,null,null)),F.Y(1,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                        "])),(l()(),F.Z(3,0,null,null,4,"div",[],null,null,null,null,null)),(l()(),F.Z(4,0,null,null,3,"p",[["class","mycolor"]],null,null,null,null,null)),(l()(),F._18(-1,null,[" The Red Cross takes care of safekeeping of your part "])),(l()(),F.Z(6,0,null,null,1,"span",[["style","font-weight:bold"]],null,null,null,null,null)),(l()(),F._18(7,null,[" ","/3"])),(l()(),F._18(-1,null,["\n                    "]))],null,function(l,n){l(n,7,0,n.parent.context.$implicit.id)})}function y(l){return F._19(0,[(l()(),F.Z(0,0,null,null,5,"ion-col",[["class","center col"],["col-5",""]],null,null,null,null,null)),F.Y(1,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                        "])),(l()(),F.Z(3,0,null,null,1,"qrcode",[],null,null,null,sn.b,sn.a)),F.Y(4,114688,null,0,cn.a,[F.j],{level:[0,"level"],qrdata:[1,"qrdata"],size:[2,"size"]},null),(l()(),F._18(-1,null,["                    \n                        "]))],function(l,n){l(n,4,0,"M",n.parent.context.$implicit.code,256)},null)}function Y(l){return F._19(0,[(l()(),F.Z(0,0,null,null,3,"ion-col",[["class"," col"],["col-4",""]],null,null,null,null,null)),F.Y(1,16384,null,0,Ol.a,[],null,null),(l()(),F.Z(2,0,null,null,1,"span",[["style","color:gray; font-size: 14px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["share now"]))],null,null)}function v(l){return F._19(0,[(l()(),F.Z(0,0,null,null,13,"ion-row",[["class","row"],["style","width:100% ; height:15vh"]],null,null,null,null,null)),F.Y(1,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            \n                      "])),(l()(),F.Z(3,0,null,null,9,"ion-col",[["class"," col"],["col-12",""]],null,null,null,null,null)),F.Y(4,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                          "])),(l()(),F.Z(6,0,null,null,2,"button",[["button-full",""],["class","next"],["full",""],["icon-right",""],["ion-button",""],["large",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.goToSlide()&&a}return a},Ul.b,Ul.a)),F.Y(7,1097728,null,0,Rl.a,[[8,""],el.a,F.j,F.z],{large:[0,"large"],full:[1,"full"]},null),(l()(),F._18(-1,0,["\n                              yes                                     \n                            "])),(l()(),F._18(-1,null,["\n                            "])),(l()(),F.Z(10,0,null,null,1,"p",[["class","_center"],["style","color:grey; margin-bottom: 0px;font-size: 14px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["No"])),(l()(),F._18(-1,null,["\n\n                      "])),(l()(),F._18(-1,null,["\n                     \n                      "]))],function(l,n){l(n,7,0,"","")},null)}function w(l){return F._19(0,[(l()(),F.Z(0,0,null,null,24,"ion-row",[["class","row"],["style","width:100% ; height:15vh; "]],null,null,null,null,null)),F.Y(1,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.Z(3,0,null,null,9,"ion-col",[["class"," col"],["col-6",""]],null,null,null,null,null)),F.Y(4,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                          "])),(l()(),F.Z(6,0,null,null,5,"button",[["button-full",""],["class","next"],["full",""],["icon-left",""],["ion-button",""],["large",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.goToBack()&&a}return a},Ul.b,Ul.a)),F.Y(7,1097728,null,0,Rl.a,[[8,""],el.a,F.j,F.z],{large:[0,"large"],full:[1,"full"]},null),(l()(),F._18(-1,0,["\n                              "])),(l()(),F.Z(9,0,null,0,1,"ion-icon",[["name","rewind"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(10,147456,null,0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(-1,0,["\n                              Back\n                            "])),(l()(),F._18(-1,null,["\n                      "])),(l()(),F._18(-1,null,["\n                   \n                      "])),(l()(),F.Z(14,0,null,null,9,"ion-col",[["class"," col"],["col-6",""]],null,null,null,null,null)),F.Y(15,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                          "])),(l()(),F.Z(17,0,null,null,5,"button",[["button-full",""],["class","next"],["full",""],["icon-right",""],["ion-button",""],["large",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.goToSlide()&&a}return a},Ul.b,Ul.a)),F.Y(18,1097728,null,0,Rl.a,[[8,""],el.a,F.j,F.z],{large:[0,"large"],full:[1,"full"]},null),(l()(),F._18(-1,0,["\n                              next\n                              "])),(l()(),F.Z(20,0,null,0,1,"ion-icon",[["name","fastforward"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(21,147456,null,0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(-1,0,["                         \n                            "])),(l()(),F._18(-1,null,["\n                        "])),(l()(),F._18(-1,null,["\n                      "]))],function(l,n){l(n,7,0,"","");l(n,10,0,"rewind");l(n,18,0,"","");l(n,21,0,"fastforward")},function(l,n){l(n,9,0,F._13(n,10)._hidden);l(n,20,0,F._13(n,21)._hidden)})}function k(l){return F._19(0,[(l()(),F.Z(0,0,null,null,21,"ion-row",[["class","row"],["style","width:100% ; height:15vh;  "]],null,null,null,null,null)),F.Y(1,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.Z(3,0,null,null,9,"ion-col",[["class"," col"],["col-6",""]],null,null,null,null,null)),F.Y(4,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                          "])),(l()(),F.Z(6,0,null,null,5,"button",[["button-full",""],["class","next"],["full",""],["icon-left",""],["ion-button",""],["large",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.goToBack()&&a}return a},Ul.b,Ul.a)),F.Y(7,1097728,null,0,Rl.a,[[8,""],el.a,F.j,F.z],{large:[0,"large"],full:[1,"full"]},null),(l()(),F._18(-1,0,["\n                              "])),(l()(),F.Z(9,0,null,0,1,"ion-icon",[["name","rewind"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(10,147456,null,0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(-1,0,["\n                              Back\n                            "])),(l()(),F._18(-1,null,["\n                      "])),(l()(),F._18(-1,null,["\n \n                      "])),(l()(),F.Z(14,0,null,null,6,"ion-col",[["class"," col"],["col-6",""]],null,null,null,null,null)),F.Y(15,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                          "])),(l()(),F.Z(17,0,null,null,2,"button",[["button-full",""],["class","next"],["full",""],["icon-right",""],["ion-button",""],["large",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.Backup()&&a}return a},Ul.b,Ul.a)),F.Y(18,1097728,null,0,Rl.a,[[8,""],el.a,F.j,F.z],{large:[0,"large"],full:[1,"full"]},null),(l()(),F._18(-1,0,["\n                              BackUp                       \n                            "])),(l()(),F._18(-1,null,["\n                        "])),(l()(),F._18(-1,null,["\n                     \n                      "]))],function(l,n){l(n,7,0,"","");l(n,10,0,"rewind");l(n,18,0,"","")},function(l,n){l(n,9,0,F._13(n,10)._hidden)})}function j(l){return F._19(0,[(l()(),F.Z(0,0,null,null,145,"ion-slide",[],null,null,null,rn.b,rn.a)),F.Y(1,180224,null,0,_n.a,[F.j,F.z,dn.a],null,null),(l()(),F._18(-1,0,["\n\n              "])),(l()(),F.Z(3,0,null,0,141,"ion-grid",[["class","grid"],["style","width:100% ; height:100vh  ;padding: 0;"]],null,null,null,null,null)),F.Y(4,16384,null,0,$l.a,[],null,null),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(6,0,null,null,29,"ion-row",[["class","row"],["style","margin-top: 41px;width: 100%;height: 11vh;font-size: 17px;margin-bottom: -20px;"]],null,null,null,null,null)),F.Y(7,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.Z(9,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(10,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                        "])),(l()(),F._18(-1,null,["\n                        "])),(l()(),F.Z(13,0,null,null,17,"ion-col",[["class","col"],["col-6",""]],null,null,null,null,null)),F.Y(14,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,[" \n                            "])),(l()(),F.Z(16,0,null,null,3,"ion-icon",[["ios","ios-radio-button-on"],["md","md-radio-button-on"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(17,278528,null,0,Pl.g,[F.p,F.q,F.j,F.A],{ngClass:[0,"ngClass"]},null),F._14(18,{red:0}),F.Y(19,147456,null,0,Jl.a,[el.a,F.j,F.z],{ios:[0,"ios"],md:[1,"md"]},null),(l()(),F._18(-1,null,["\n                            "])),(l()(),F.Z(21,0,null,null,3,"ion-icon",[["ios","ios-radio-button-on"],["md","md-radio-button-on"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(22,278528,null,0,Pl.g,[F.p,F.q,F.j,F.A],{ngClass:[0,"ngClass"]},null),F._14(23,{red:0}),F.Y(24,147456,null,0,Jl.a,[el.a,F.j,F.z],{ios:[0,"ios"],md:[1,"md"]},null),(l()(),F._18(-1,null,["\n                            "])),(l()(),F.Z(26,0,null,null,3,"ion-icon",[["ios","ios-radio-button-on"],["md","md-radio-button-on"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(27,278528,null,0,Pl.g,[F.p,F.q,F.j,F.A],{ngClass:[0,"ngClass"]},null),F._14(28,{red:0}),F.Y(29,147456,null,0,Jl.a,[el.a,F.j,F.z],{ios:[0,"ios"],md:[1,"md"]},null),(l()(),F._18(-1,null,["\n                        "])),(l()(),F._18(-1,null,["\n                        "])),(l()(),F.Z(32,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(33,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                        "])),(l()(),F._18(-1,null,[" \n                  "])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(37,0,null,null,17,"ion-row",[["class","row"],["style","width:100% ; height:13vh"]],null,null,null,null,null)),F.Y(38,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.Z(40,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(41,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F._18(-1,null,["\n                    "])),(l()(),F.Z(44,0,null,null,5,"ion-col",[["class","center col"],["col-10",""]],null,null,null,null,null)),F.Y(45,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                    "])),(l()(),F.Z(47,0,null,null,1,"h3",[["style","color:#205666;font-weight: bold;"]],null,null,null,null,null)),(l()(),F._18(48,null,["",""])),(l()(),F._18(-1,null,["\n                    "])),(l()(),F._18(-1,null,["\n                    "])),(l()(),F.Z(51,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(52,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                    "])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(56,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:2vh"]],null,null,null,null,null)),F.Y(57,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                  "])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(60,0,null,null,16,"ion-row",[["class","row"],["style","width:100% ; height:14vh"]],null,null,null,null,null)),F.Y(61,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.Z(63,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(64,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                        "])),(l()(),F._18(-1,null,["\n                    "])),(l()(),F.U(16777216,null,null,1,null,b)),F.Y(68,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,["\n                    "])),(l()(),F.U(16777216,null,null,1,null,Z)),F.Y(71,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,["\n                    "])),(l()(),F.Z(73,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(74,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(78,0,null,null,19,"ion-row",[["class","row"],["style","width:100% ; height:7vh"]],null,null,null,null,null)),F.Y(79,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.Z(81,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(82,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                        "])),(l()(),F._18(-1,null,["\n                    "])),(l()(),F.Z(85,0,null,null,7,"ion-col",[["class"," col"],["col-10",""]],null,null,null,null,null)),F.Y(86,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                              "])),(l()(),F.Z(88,0,null,null,3,"div",[],null,null,null,null,null)),(l()(),F.Z(89,0,null,null,1,"p",[["style","color:red;font-size: 12px;"]],null,null,null,null,null)),(l()(),F._18(90,null,["",""])),(l()(),F._18(-1,null,["  "])),(l()(),F._18(-1,null,["         \n                    "])),(l()(),F._18(-1,null,["\n                    "])),(l()(),F.Z(94,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(95,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F._18(-1,null,["\n                 \n                  "])),(l()(),F.Z(99,0,null,null,13,"ion-row",[["class","row"],["style","width:100% ;height: 20vh;"]],null,null,null,null,null)),F.Y(100,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.Z(102,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(103,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                        "])),(l()(),F._18(-1,null,["\n                    "])),(l()(),F.U(16777216,null,null,1,null,y)),F.Y(107,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,["\n                    "])),(l()(),F.Z(109,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(110,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                    "])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F._18(-1,null,[" \n                  "])),(l()(),F.Z(114,0,null,null,11,"ion-row",[["class","row"],["style","width:100% ; height:7vh"]],null,null,null,null,null)),F.Y(115,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.Z(117,0,null,null,1,"ion-col",[["class"," col"],["col-4",""]],null,null,null,null,null)),F.Y(118,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.U(16777216,null,null,1,null,Y)),F.Y(121,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.Z(123,0,null,null,1,"ion-col",[["class"," col"],["col-4",""]],null,null,null,null,null)),F.Y(124,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                    "])),(l()(),F._18(-1,null,["              \n                  "])),(l()(),F.U(16777216,null,null,1,null,v)),F.Y(128,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,["\n                   "])),(l()(),F.U(16777216,null,null,1,null,w)),F.Y(131,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,["\n\n                  "])),(l()(),F.U(16777216,null,null,1,null,k)),F.Y(134,16384,null,0,Pl.i,[F.I,F.F],{ngIf:[0,"ngIf"]},null),(l()(),F._18(-1,null,["\n                      "])),(l()(),F.Z(136,0,null,null,7,"ion-row",[["class","row"],["style","width:100% ; height:5vh;"]],null,null,null,null,null)),F.Y(137,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                          "])),(l()(),F.Z(139,0,null,null,3,"p",[["class","_center signin"],["style","color:gray; margin-bottom: 0px;    font-size: 14px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["powered by "])),(l()(),F.Z(141,0,null,null,1,"span",[["style","color:#488aff;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["tykn.tech "])),(l()(),F._18(-1,null,["                                \n                        "])),(l()(),F._18(-1,null,["\n                "])),(l()(),F._18(-1,0,[" \n          "]))],function(l,n){l(n,17,0,l(n,18,0,1==n.context.$implicit.id));l(n,19,0,"ios-radio-button-on","md-radio-button-on");l(n,22,0,l(n,23,0,2==n.context.$implicit.id));l(n,24,0,"ios-radio-button-on","md-radio-button-on");l(n,27,0,l(n,28,0,3==n.context.$implicit.id));l(n,29,0,"ios-radio-button-on","md-radio-button-on");l(n,68,0,1!=n.context.$implicit.id);l(n,71,0,1==n.context.$implicit.id);l(n,107,0,1!=n.context.$implicit.id);l(n,121,0,1!=n.context.$implicit.id);l(n,128,0,1==n.context.$implicit.id);l(n,131,0,2==n.context.$implicit.id);l(n,134,0,3==n.context.$implicit.id)},function(l,n){l(n,16,0,F._13(n,19)._hidden);l(n,21,0,F._13(n,24)._hidden);l(n,26,0,F._13(n,29)._hidden);l(n,48,0,n.context.$implicit.text);l(n,90,0,n.context.$implicit.code)})}function z(l){return F._19(0,[F._16(402653184,1,{slides:0}),(l()(),F._18(-1,null,["\n"])),(l()(),F.Z(2,0,null,null,6,"ion-header",[],null,null,null,null,null)),F.Y(3,16384,null,0,bl.a,[el.a,F.j,F.z,[2,Zl.a]],null,null),(l()(),F._18(-1,null,["\n    "])),(l()(),F.Z(5,0,null,null,2,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Kl.b,Kl.a)),F.Y(6,49152,null,0,kl.a,[ml.a,[2,Zl.a],[2,xl.a],el.a,F.j,F.z],null,null),(l()(),F._18(-1,3,["\n    "])),(l()(),F._18(-1,null,["\n  "])),(l()(),F._18(-1,null,["\n  \n  \n  "])),(l()(),F.Z(10,0,null,null,9,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,jl.b,jl.a)),F.Y(11,4374528,null,0,zl.a,[el.a,hl.a,fl.a,F.j,F.z,ml.a,gl.a,F.u,[2,Zl.a],[2,xl.a]],null,null),(l()(),F._18(-1,1,["\n      "])),(l()(),F.Z(13,0,null,1,5,"ion-slides",[],null,null,null,hn.b,hn.a)),F.Y(14,1228800,[[1,4]],0,dn.a,[el.a,hl.a,F.u,[2,Zl.a],F.j,F.z],null,null),(l()(),F._18(-1,0,["\n          "])),(l()(),F.U(16777216,null,0,1,null,j)),F.Y(17,802816,null,0,Pl.h,[F.I,F.F,F.p],{ngForOf:[0,"ngForOf"]},null),(l()(),F._18(-1,0,["\n        \n        "])),(l()(),F._18(-1,1,["\n  "])),(l()(),F._18(-1,null,["\n  "]))],function(l,n){l(n,17,0,n.component.mydata)},function(l,n){l(n,5,0,F._13(n,6)._hidden,F._13(n,6)._sbPadding);l(n,10,0,F._13(n,11).statusbarPadding,F._13(n,11)._hasRefresher)})}function x(l){return F._19(0,[(l()(),F._18(-1,null,["\n"])),(l()(),F.Z(1,0,null,null,25,"ion-header",[],null,null,null,null,null)),F.Y(2,16384,null,0,bl.a,[el.a,F.j,F.z,[2,Zl.a]],null,null),(l()(),F._18(-1,null,["\n\n    "])),(l()(),F.Z(4,0,null,null,21,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Kl.b,Kl.a)),F.Y(5,49152,null,0,kl.a,[ml.a,[2,Zl.a],[2,xl.a],el.a,F.j,F.z],null,null),(l()(),F._18(-1,3,["\n      "])),(l()(),F.Z(7,0,null,3,2,"ion-title",[],null,null,null,vl.b,vl.a)),F.Y(8,49152,null,0,wl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),(l()(),F._18(-1,0,["verification"])),(l()(),F._18(-1,3,["\n      "])),(l()(),F.Z(11,0,null,2,13,"ion-buttons",[["end",""]],null,null,null,null,null)),F.Y(12,16384,null,1,Gl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),F._16(603979776,1,{_buttons:1}),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(15,0,null,null,8,"button",[["icon-only",""],["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==F._13(l,17).toggle()&&a}return a},Ul.b,Ul.a)),F.Y(16,1097728,[[2,4],[1,4]],0,Rl.a,[[8,""],el.a,F.j,F.z],null,null),F.Y(17,1064960,null,0,Hl.a,[dl.a,[2,Zl.a],[2,Rl.a],[2,kl.a]],{menuToggle:[0,"menuToggle"]},null),F.Y(18,16384,null,1,Gl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),F._16(603979776,2,{_buttons:1}),(l()(),F._18(-1,0,["\n            "])),(l()(),F.Z(21,0,null,0,1,"ion-icon",[["name","options"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(22,147456,null,0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(-1,0,["\n          "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,3,["\n    "])),(l()(),F._18(-1,null,["\n  "])),(l()(),F._18(-1,null,["\n  \n\n\n"])),(l()(),F.Z(28,0,null,null,131,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,jl.b,jl.a)),F.Y(29,4374528,null,0,zl.a,[el.a,hl.a,fl.a,F.j,F.z,ml.a,gl.a,F.u,[2,Zl.a],[2,xl.a]],null,null),(l()(),F._18(-1,1,["\n\n    "])),(l()(),F.Z(31,0,null,1,127,"ion-grid",[["class","grid"],["style","width:100% ; height:100vh  ;padding: 0;"]],null,null,null,null,null)),F.Y(32,16384,null,0,$l.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(34,0,null,null,22,"ion-row",[["class","row"],["style","margin-top: 41px;width: 100%;height: 6vh;font-size: 17px;margin-bottom: -20px;"]],null,null,null,null,null)),F.Y(35,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(37,0,null,null,2,"ion-col",[["class","col"],["col-2",""]],null,null,null,null,null)),F.Y(38,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(41,0,null,null,10,"ion-col",[["class","col"],["col-7",""]],null,null,null,null,null)),F.Y(42,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,[" \n                  "])),(l()(),F.Z(44,0,null,null,1,"span",[["style","margin-left: 20px;"]],null,null,null,null,null)),(l()(),F._18(45,null,["status: ",""])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(47,0,null,null,3,"ion-icon",[["ios","ios-radio-button-on"],["md","md-radio-button-on"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(48,278528,null,0,Pl.g,[F.p,F.q,F.j,F.A],{ngClass:[0,"ngClass"]},null),F._14(49,{red:0,green:1}),F.Y(50,147456,null,0,Jl.a,[el.a,F.j,F.z],{ios:[0,"ios"],md:[1,"md"]},null),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(53,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(54,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,[" \n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(58,0,null,null,19,"ion-row",[["class","row"],["style","width:100% ; height:18vh"]],null,null,null,null,null)),F.Y(59,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(61,0,null,null,2,"ion-col",[["class","col"],["col-2",""]],null,null,null,null,null)),F.Y(62,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(65,0,null,null,7,"ion-col",[["class","center col"],["col-8",""]],null,null,null,null,null)),F.Y(66,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(68,0,null,null,3,"div",[],null,null,null,null,null)),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(70,0,null,null,0,"img",[["class","mavatar"],["src","assets/imgs/profile.jpg"]],null,null,null,null,null)),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n          \n          "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(74,0,null,null,2,"ion-col",[["class","col"],["col-2",""]],null,null,null,null,null)),F.Y(75,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(79,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:2vh;"]],null,null,null,null,null)),F.Y(80,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(83,0,null,null,20,"ion-row",[["class","row"],["style","width:100% ; height:5vh;border-bottom: 2px solid #205666;margin-bottom: 24px;"]],null,null,null,null,null)),F.Y(84,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(86,0,null,null,5,"ion-col",[["class","col"],["col-4",""]],null,null,null,null,null)),F.Y(87,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(89,0,null,null,1,"span",[],null,null,null,null,null)),(l()(),F._18(-1,null,["Name:"])),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(93,0,null,null,2,"ion-col",[["class","col"],["col-2",""]],null,null,null,null,null)),F.Y(94,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["           \n              "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(97,0,null,null,5,"ion-col",[["class"," col"],["col-6",""]],null,null,null,null,null)),F.Y(98,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(100,0,null,null,1,"span",[],null,null,null,null,null)),(l()(),F._18(101,null,["",""])),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["         \n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(105,0,null,null,24,"ion-row",[["class","row"],["style","width:100% ; height:5vh;border-bottom: 2px solid #205666;margin-bottom: 24px;"]],null,null,null,null,null)),F.Y(106,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(108,0,null,null,20,"ion-row",[["class","row"],["style","width:100% ; height:14vh"]],null,null,null,null,null)),F.Y(109,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                "])),(l()(),F.Z(111,0,null,null,5,"ion-col",[["class","col"],["col-4",""]],null,null,null,null,null)),F.Y(112,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(114,0,null,null,1,"span",[],null,null,null,null,null)),(l()(),F._18(-1,null,["Date of Birth::"])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(118,0,null,null,2,"ion-col",[["class","col"],["col-2",""]],null,null,null,null,null)),F.Y(119,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["           \n                  "])),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(122,0,null,null,5,"ion-col",[["class"," col"],["col-6",""]],null,null,null,null,null)),F.Y(123,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                "])),(l()(),F.Z(125,0,null,null,1,"span",[],null,null,null,null,null)),(l()(),F._18(126,null,["",""])),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,["         \n            "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n       \n        "])),(l()(),F.Z(131,0,null,null,17,"ion-row",[["class","row"],["style","width:100% ;height: 35vh;"]],null,null,null,null,null)),F.Y(132,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(134,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(135,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(138,0,null,null,5,"ion-col",[["class","center col"],["col-5",""]],null,null,null,null,null)),F.Y(139,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(141,0,null,null,1,"qrcode",[],null,null,null,sn.b,sn.a)),F.Y(142,114688,null,0,cn.a,[F.j],{level:[0,"level"],qrdata:[1,"qrdata"],size:[2,"size"]},null),(l()(),F._18(-1,null,["                    \n          "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(145,0,null,null,2,"ion-col",[["class","col"],["col-3",""]],null,null,null,null,null)),F.Y(146,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,[" \n                     \n       \n \n            "])),(l()(),F.Z(150,0,null,null,7,"ion-row",[["class","row"],["style","width:100% ; height:5vh;"]],null,null,null,null,null)),F.Y(151,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n                "])),(l()(),F.Z(153,0,null,null,3,"p",[["class","_center signin"],["style","color:gray; margin-bottom: 0px;    font-size: 14px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["powered by "])),(l()(),F.Z(155,0,null,null,1,"span",[["style","color:#488aff;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["tykn.tech "])),(l()(),F._18(-1,null,["                                \n              "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,1,[" \n"])),(l()(),F._18(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,17,0,"");l(n,22,0,"options");l(n,48,0,l(n,49,0,"verified"!=u.verFlag,"verified"==u.verFlag));l(n,50,0,"ios-radio-button-on","md-radio-button-on");l(n,142,0,"M",u.verkey,256)},function(l,n){var u=n.component;l(n,4,0,F._13(n,5)._hidden,F._13(n,5)._sbPadding);l(n,15,0,F._13(n,17).isHidden);l(n,21,0,F._13(n,22)._hidden);l(n,28,0,F._13(n,29).statusbarPadding,F._13(n,29)._hasRefresher);l(n,45,0,u.verFlag);l(n,47,0,F._13(n,50)._hidden);l(n,101,0,u.name);l(n,126,0,u.dob)})}function I(l){return F._19(0,[(l()(),F._18(-1,null,["\n"])),(l()(),F.Z(1,0,null,null,7,"ion-header",[],null,null,null,null,null)),F.Y(2,16384,null,0,bl.a,[el.a,F.j,F.z,[2,Zl.a]],null,null),(l()(),F._18(-1,null,["\n\n    "])),(l()(),F.Z(4,0,null,null,3,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Kl.b,Kl.a)),F.Y(5,49152,null,0,kl.a,[ml.a,[2,Zl.a],[2,xl.a],el.a,F.j,F.z],null,null),(l()(),F._18(-1,3,["\n      "])),(l()(),F._18(-1,3,["\n    "])),(l()(),F._18(-1,null,["\n  \n  "])),(l()(),F._18(-1,null,["\n  \n  \n  "])),(l()(),F.Z(10,0,null,null,126,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,jl.b,jl.a)),F.Y(11,4374528,null,0,zl.a,[el.a,hl.a,fl.a,F.j,F.z,ml.a,gl.a,F.u,[2,Zl.a],[2,xl.a]],null,null),(l()(),F._18(-1,1,["\n    "])),(l()(),F.Z(13,0,null,1,122,"ion-grid",[["class","grid"],["style","width:100% ; height:100vh  ;padding: 0;"]],null,null,null,null,null)),F.Y(14,16384,null,0,$l.a,[],null,null),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(16,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:11vh"]],null,null,null,null,null)),F.Y(17,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(20,0,null,null,17,"ion-row",[["class","row"],["style","width:100% ; height:10vh"]],null,null,null,null,null)),F.Y(21,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(23,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(24,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(27,0,null,null,5,"ion-col",[["class","center col"],["col-10",""]],null,null,null,null,null)),F.Y(28,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(30,0,null,null,1,"h3",[["style","color:#205666;font-weight: bold;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Enter the recovery codes"])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(34,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(35,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(39,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:2vh"]],null,null,null,null,null)),F.Y(40,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(43,0,null,null,18,"ion-row",[["class","row"],["style","width:100% ; height:10vh"]],null,null,null,null,null)),F.Y(44,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(46,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(47,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(50,0,null,null,6,"ion-col",[["class"," col"],["col-10",""]],null,null,null,null,null)),F.Y(51,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n                  "])),(l()(),F.Z(53,0,null,null,2,"div",[],null,null,null,null,null)),(l()(),F.Z(54,0,null,null,1,"p",[["class","mycolor"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Only two out of the trhee recovery codes are needed to recover your ID"])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(58,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(59,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(63,0,null,null,54,"ion-row",[["class","row"],["style","width:100% ; height:30vh"]],null,null,null,null,null)),F.Y(64,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(66,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(67,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(70,0,null,null,42,"ion-col",[["class"," col"],["col-10",""]],null,null,null,null,null)),F.Y(71,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(73,0,null,null,38,"ion-list",[],null,null,null,null,null)),F.Y(74,16384,null,0,Il.a,[el.a,F.j,F.z,hl.a,pl.l,fl.a],null,null),(l()(),F._18(-1,null,["\n                "])),(l()(),F.Z(76,0,null,null,2,"div",[["class","mnText"]],null,null,null,null,null)),(l()(),F.Z(77,0,null,null,1,"span",[["class","cspan"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Recovery code 1"])),(l()(),F._18(-1,null,["\n                "])),(l()(),F.Z(80,0,null,null,12,"ion-item",[["class","borders item item-block"]],null,null,null,al.b,al.a)),F.Y(81,1097728,null,3,ol.a,[tl.a,el.a,F.j,F.z,[2,il.a]],null,null),F._16(335544320,1,{contentLabel:0}),F._16(603979776,2,{_buttons:1}),F._16(603979776,3,{_icons:1}),F.Y(85,16384,null,0,sl.a,[],null,null),(l()(),F._18(-1,2,["\n                  "])),(l()(),F.Z(87,0,null,3,1,"ion-input",[["class","phoneInput"],["placeholder","Enter code or scan"],["type","text"]],null,null,null,El.b,El.a)),F.Y(88,5423104,null,0,Ll.a,[el.a,hl.a,tl.a,ml.a,F.j,F.z,[2,zl.a],[2,ol.a],[2,ql.f],fl.a],{type:[0,"type"],placeholder:[1,"placeholder"]},null),(l()(),F._18(-1,2,["\n                  "])),(l()(),F.Z(90,0,null,4,1,"ion-icon",[["item-end",""],["name","ios-qr-scanner"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(91,147456,[[3,4]],0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(-1,2,["\n                "])),(l()(),F._18(-1,null,["    \n                "])),(l()(),F.Z(94,0,null,null,2,"div",[["class","mnText2 mnText"]],null,null,null,null,null)),(l()(),F.Z(95,0,null,null,1,"span",[["class","cspan"]],null,null,null,null,null)),(l()(),F._18(-1,null,["Recovery code 2"])),(l()(),F._18(-1,null,["\n                "])),(l()(),F.Z(98,0,null,null,12,"ion-item",[["class","borders item item-block"]],null,null,null,al.b,al.a)),F.Y(99,1097728,null,3,ol.a,[tl.a,el.a,F.j,F.z,[2,il.a]],null,null),F._16(335544320,4,{contentLabel:0}),F._16(603979776,5,{_buttons:1}),F._16(603979776,6,{_icons:1}),F.Y(103,16384,null,0,sl.a,[],null,null),(l()(),F._18(-1,2,["\n                  "])),(l()(),F.Z(105,0,null,3,1,"ion-input",[["class","phoneInput"],["placeholder","Enter code or scan"],["type","text"]],null,null,null,El.b,El.a)),F.Y(106,5423104,null,0,Ll.a,[el.a,hl.a,tl.a,ml.a,F.j,F.z,[2,zl.a],[2,ol.a],[2,ql.f],fl.a],{type:[0,"type"],placeholder:[1,"placeholder"]},null),(l()(),F._18(-1,2,["\n                  "])),(l()(),F.Z(108,0,null,4,1,"ion-icon",[["item-end",""],["name","ios-qr-scanner"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(109,147456,[[6,4]],0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(-1,2,["\n                "])),(l()(),F._18(-1,null,["                     \n              "])),(l()(),F._18(-1,null,["      \n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(114,0,null,null,2,"ion-col",[["class","col"],["col-1",""]],null,null,null,null,null)),F.Y(115,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F.Z(119,0,null,null,2,"ion-row",[["class","row"],["style","width:100% ; height:5vh;"]],null,null,null,null,null)),F.Y(120,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n     \n      "])),(l()(),F._18(-1,null,["\n     \n      \n      "])),(l()(),F.Z(123,0,null,null,11,"ion-row",[["class","row"],["style","width:100% ; height:25vh"]],null,null,null,null,null)),F.Y(124,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(126,0,null,null,2,"button",[["button-full",""],["class","next"],["full",""],["ion-button",""],["large",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.gotoBackup2(u)&&a}return a},Ul.b,Ul.a)),F.Y(127,1097728,null,0,Rl.a,[[8,""],el.a,F.j,F.z],{large:[0,"large"],full:[1,"full"]},null),(l()(),F._18(-1,0,["Recover"])),(l()(),F._18(-1,null,["    \n            "])),(l()(),F.Z(130,0,null,null,3,"p",[["class","_center signin"],["style","color:gray; margin-bottom: 0px;    font-size: 14px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["powered by "])),(l()(),F.Z(132,0,null,null,1,"span",[["style","color:#488aff;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["tykn.tech "])),(l()(),F._18(-1,null,["                                \n          "])),(l()(),F._18(-1,null,["\n    "])),(l()(),F._18(-1,1,["   \n  "])),(l()(),F._18(-1,null,["\n  "]))],function(l,n){l(n,88,0,"text","Enter code or scan");l(n,91,0,"ios-qr-scanner");l(n,106,0,"text","Enter code or scan");l(n,109,0,"ios-qr-scanner");l(n,127,0,"","")},function(l,n){l(n,4,0,F._13(n,5)._hidden,F._13(n,5)._sbPadding);l(n,10,0,F._13(n,11).statusbarPadding,F._13(n,11)._hasRefresher);l(n,90,0,F._13(n,91)._hidden);l(n,108,0,F._13(n,109)._hidden)})}function P(l){return F._19(0,[(l()(),F._18(-1,null,["\n"])),(l()(),F.Z(1,0,null,null,25,"ion-header",[],null,null,null,null,null)),F.Y(2,16384,null,0,bl.a,[el.a,F.j,F.z,[2,Zl.a]],null,null),(l()(),F._18(-1,null,["\n\n  "])),(l()(),F.Z(4,0,null,null,21,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Kl.b,Kl.a)),F.Y(5,49152,null,0,kl.a,[ml.a,[2,Zl.a],[2,xl.a],el.a,F.j,F.z],null,null),(l()(),F._18(-1,3,["\n    "])),(l()(),F.Z(7,0,null,3,2,"ion-title",[],null,null,null,vl.b,vl.a)),F.Y(8,49152,null,0,wl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),(l()(),F._18(-1,0,["verification"])),(l()(),F._18(-1,3,["\n    "])),(l()(),F.Z(11,0,null,2,13,"ion-buttons",[["end",""]],null,null,null,null,null)),F.Y(12,16384,null,1,Gl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),F._16(603979776,1,{_buttons:1}),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(15,0,null,null,8,"button",[["icon-only",""],["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==F._13(l,17).toggle()&&a}return a},Ul.b,Ul.a)),F.Y(16,1097728,[[2,4],[1,4]],0,Rl.a,[[8,""],el.a,F.j,F.z],null,null),F.Y(17,1064960,null,0,Hl.a,[dl.a,[2,Zl.a],[2,Rl.a],[2,kl.a]],{menuToggle:[0,"menuToggle"]},null),F.Y(18,16384,null,1,Gl.a,[el.a,F.j,F.z,[2,Yl.a],[2,kl.a]],null,null),F._16(603979776,2,{_buttons:1}),(l()(),F._18(-1,0,["\n          "])),(l()(),F.Z(21,0,null,0,1,"ion-icon",[["name","options"],["role","img"]],[[2,"hide",null]],null,null,null,null)),F.Y(22,147456,null,0,Jl.a,[el.a,F.j,F.z],{name:[0,"name"]},null),(l()(),F._18(-1,0,["\n        "])),(l()(),F._18(-1,null,["\n      "])),(l()(),F._18(-1,3,["\n  "])),(l()(),F._18(-1,null,["\n"])),(l()(),F._18(-1,null,["\n\n\n"])),(l()(),F.Z(28,0,null,null,36,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,jl.b,jl.a)),F.Y(29,4374528,null,0,zl.a,[el.a,hl.a,fl.a,F.j,F.z,ml.a,gl.a,F.u,[2,Zl.a],[2,xl.a]],null,null),(l()(),F._18(-1,1,["\n    "])),(l()(),F.Z(31,0,null,1,32,"ion-grid",[["class","grid"],["style","width:100% ; height:100vh  ;padding: 0;"]],null,null,null,null,null)),F.Y(32,16384,null,0,$l.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(34,0,null,null,1,"ion-row",[["class","row"],["style","width:100% ; height:23vh"]],null,null,null,null,null)),F.Y(35,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(37,0,null,null,22,"ion-row",[["class","row"],["style","width:100% ; height:43vh"]],null,null,null,null,null)),F.Y(38,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(40,0,null,null,2,"ion-col",[["class","col"],["col-2",""]],null,null,null,null,null)),F.Y(41,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n              "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(44,0,null,null,10,"ion-col",[["class","center col"],["col-8",""]],null,null,null,null,null)),F.Y(45,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(47,0,null,null,3,"div",[["style","    margin-bottom: 21px;\n            text-align: center;\n            margin-top: 10px;\n            font-size: 18px;"]],null,null,null,null,null)),(l()(),F._18(-1,null,["\n            "])),(l()(),F.Z(49,0,null,null,1,"span",[],null,null,null,null,null)),(l()(),F._18(-1,null,["verification key"])),(l()(),F._18(-1,null,["\n              "])),(l()(),F.Z(52,0,null,null,1,"qrcode",[],null,null,null,sn.b,sn.a)),F.Y(53,114688,null,0,cn.a,[F.j],{level:[0,"level"],qrdata:[1,"qrdata"],size:[2,"size"]},null),(l()(),F._18(-1,null,["                    \n              "])),(l()(),F._18(-1,null,["\n          "])),(l()(),F.Z(56,0,null,null,2,"ion-col",[["class","col"],["col-2",""]],null,null,null,null,null)),F.Y(57,16384,null,0,Ol.a,[],null,null),(l()(),F._18(-1,null,["\n          "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F._18(-1,null,["\n        "])),(l()(),F.Z(61,0,null,null,1,"ion-row",[["class","row"],["style","width:100% ; height:33vh"]],null,null,null,null,null)),F.Y(62,16384,null,0,Sl.a,[],null,null),(l()(),F._18(-1,null,["\n\n    "])),(l()(),F._18(-1,1,["\n\n"])),(l()(),F._18(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,17,0,"");l(n,22,0,"options");l(n,53,0,"M",u.didkey,256)},function(l,n){l(n,4,0,F._13(n,5)._hidden,F._13(n,5)._sbPadding);l(n,15,0,F._13(n,17).isHidden);l(n,21,0,F._13(n,22)._hidden);l(n,28,0,F._13(n,29).statusbarPadding,F._13(n,29)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var C=u(38),F=u(0),T=(u(4),u(18),u(125)),D=(u(224),u(225),function(){function l(l){this.http=l,this.url="https://redy.blockchain-innovation.org:9443/",console.log("Hello AlldataProvider Provider")}return l.prototype.createWallet=function(){var l=new T.d({"Content-Type":"application/x-www-form-urlencoded"}),n=new T.g({headers:l});return console.log("url",this.url),this.http.post(this.url+"create_identity",{},n).toPromise().then(this.extractData).catch(this.handleError)},l.prototype.requestSharding=function(){var l=new T.d({"Content-Type":"application/x-www-form-urlencoded"}),n=new T.g({headers:l}),u=JSON.stringify({seed:"!]{4Df9j`umwg7GOcZBc4QJ[YeUMYD!I"});return this.http.post(this.url+"secret_sharding",u,n).toPromise().then(this.extractData).catch(this.handleError)},l.prototype.recoverKey=function(){var l=new T.d({"Content-Type":"application/x-www-form-urlencoded"}),n=new T.g({headers:l}),u=JSON.stringify({shards:["1-ccb20402f19e2dd476ba1441c55c7f4dac43a28ed6307019a650a57b86f434c9","2-99640805e32d134fe76b6eced4b55e2b78588de8b1221d27d19098b7bbc4e595"]});return this.http.post(this.url+"secret_recovery",u,n).toPromise().then(this.extractData).catch(this.handleError)},l.prototype.test=function(){return this.http.get("https://tsh-app.firebaseio.com/events.json").toPromise().then(this.extractData).catch(this.handleError)},l.prototype.testGet=function(){return console.log("url","http://149.210.250.124:9000/get"),this.http.get("http://149.210.250.124:9000/get").toPromise().then(this.extractData).catch(this.handleError)},l.prototype.extractData=function(l){return l.json()||{}},l.prototype.setvarkey=function(l,n){this.verkey=l,this.did=n,console.log("set value from provider",this.verkey,this.did),this.verFlag="unverfied"},l.prototype.setName=function(l,n){this.name=l,this.dob=n,console.log("set value from provider",this.verkey,this.did)},l.prototype.gettvarkey=function(){return this.verkey},l.prototype.gettdidkey=function(){return this.verFlag="verified",this.did},l.prototype.getname=function(){return this.name},l.prototype.getVerfication=function(){return this.name},l.prototype.setVerFlag=function(){return this.verFlag},l.prototype.getdob=function(){return this.dob},l.prototype.handleError=function(l){return console.error("An error occurred",l),Promise.reject(l.message||l)},l}()),V=function(){function l(l,n,u){this.navCtrl=l,this.navParams=n,this.alldataProvider=u,this.name="",this.dob="",this.verFlag="unverified",this.verkey=this.alldataProvider.gettvarkey(),console.log("get from provider",this.verkey),this.setName()}return l.prototype.setName=function(){this.name=this.alldataProvider.getname(),this.dob=this.alldataProvider.getdob(),this.verFlag=this.alldataProvider.setVerFlag()},l.prototype.ionViewDidLoad=function(){console.log("ionViewDidLoad AvatarPage")},l}(),B=function(){function l(l,n){this.navCtrl=l,this.navParams=n,this.parameter1=[],this.mydata=[],this.parameter1=n.get("param1"),console.log("my param",this.parameter1),this.mydata=[{text:"Do you want to share a part of your recovery key with the Red Cross ",index:"",id:1,code:""},{text:"Save the SECOND recovery code of your ID",index:"",id:2,code:this.parameter1[1]},{text:"Save the THIRD recovery code of your ID",index:"",id:3,code:this.parameter1[2]}]}return l.prototype.goToSlide=function(){this.slides.slideNext()},l.prototype.goToBack=function(){this.slides.slidePrev()},l.prototype.Backup=function(){this.navCtrl.push(V,{})},l.prototype.ionViewDidLoad=function(){console.log("ionViewDidLoad Backup2Page")},l}(),E=function(){function l(l,n,u,a,o){this.navCtrl=l,this.loadingCtrl=n,this.navParams=u,this.toastCtrl=a,this.alldataProvider=o}return l.prototype.presentLoading=function(){this.loader=this.loadingCtrl.create({content:"Please wait..."}),this.loader.present()},l.prototype.ionViewDidLoad=function(){console.log("ionViewDidLoad Identity2Page")},l.prototype.login=function(l){this.toastCtrl.create({message:"you clicked login button.",duration:3e3,position:"top"}).present()},l.prototype.gotoBackup2=function(l){this.presentLoading(),this.sharding()},l.prototype.sharding=function(){var l=this,n=["1-624ad90d8c67b43f0086b164b706174d66c7af57d2d07fca060886ccef1f4f25","2-c495b21b18c02024fb04a914b8088e2aed60a77aaa623c8891005b5a8c1b1b76","3-26e08b28a5188c0af582a0c4b90b050873f99f9d81f3f9471bf82fe82916e69e"];this.alldataProvider.requestSharding().then(function(u){l.loader.dismiss(),console.log("success",u),l.navCtrl.push(B,{param1:n})}).catch(function(u){console.log("error",u),l.loader.dismiss(),l.navCtrl.push(B,{param1:n})})},l}(),L=function(){function l(l,n,u,a,o){this.navCtrl=l,this.navParams=n,this.viewCtrl=u,this.alldataProvider=a,this.toastCtrl=o,this.name="",this.dob=""}return l.prototype.ionViewDidLoad=function(){console.log("ionViewDidLoad Identity1Page"),this.viewCtrl.setBackButtonText("Welcome Screen")},l.prototype.login=function(l){this.toastCtrl.create({message:"you clicked login button.",duration:3e3,position:"top"}).present()},l.prototype.gotoIdentity2=function(l){console.log("name",this.name,this.dob),this.alldataProvider.setName(this.name,this.dob),this.navCtrl.push(E,{})},l}(),q=function(){function l(l,n){this.navCtrl=l,this.navParams=n}return l.prototype.ionViewDidLoad=function(){console.log("ionViewDidLoad RecoverPage")},l}(),U=function(){function l(l,n,u,a,o){this.toastCtrl=l,this.loadingCtrl=n,this.navCtrl=u,this.navParams=a,this.alldataProvider=o,this.loginFlag=!1,this.items=[]}return l.prototype.ngOnInit=function(){},l.prototype.signup=function(l){this.requestWallet(),this.loginFlag=!0,console.log(l,this.loginFlag);this.toastCtrl.create({message:"you clicked login button.",duration:3e3,position:"top"}).present()},l.prototype.Login=function(l){this.loginFlag=!1},l.prototype.recover=function(){this.navCtrl.push(q,{})},l.prototype.createIdinity=function(l){this.presentLoading(),this.requestWallet(),this.navCtrl.push(L,{})},l.prototype.presentLoading=function(){this.loader=this.loadingCtrl.create({content:"Please wait..."}),this.loader.present()},l.prototype.requestWallet=function(){var l=this;this.alldataProvider.createWallet().then(function(n){l.loader.dismiss(),console.log("success",n),l.items=n,l.alldataProvider.setvarkey(n.verkey,n.did)}).catch(function(n){console.log("error",n),l.loader.dismiss(),l.alldataProvider.setvarkey("6VvWGzmdUk4D27JvYCPn76empZoyCBnBwE27X6Rs956E","B69G2dqg7jebwYCPbPvdL5")})},l}(),R=function(){function l(l,n,u){this.navCtrl=l,this.navParams=n,this.alldataProvider=u,this.didkey=u.gettdidkey(),console.log("get did ",this.didkey)}return l.prototype.ionViewDidLoad=function(){console.log("ionViewDidLoad VerkeyPage")},l}(),$=u(88),S=u(89),O=function(){function l(l,n,u,a){this.platform=l,this.menu=n,this.statusBar=u,this.splashScreen=a,this.rootPage=U,this.initializeApp(),this.pages=[{title:"Home Page",component:V},{title:"Backup your ID",component:U},{title:"Verfication key",component:R}]}return l.prototype.initializeApp=function(){var l=this;this.platform.ready().then(function(){l.statusBar.styleDefault(),l.splashScreen.hide()})},l.prototype.openPage=function(l){this.menu.close(),this.nav.setRoot(l.component)},l}(),M=function(){return function(l,n){this.navCtrl=l,this.navParams=n,this.selectedItem=n.get("item")}}(),N=function(){function l(l,n){this.navCtrl=l,this.navParams=n,this.icons=["flask","wifi","beer","football","basketball","paper-plane","american-football","boat","bluetooth","build"],this.items=[];for(var u=1;u<11;u++)this.items.push({title:"Item "+u,note:"This is item #"+u,icon:this.icons[Math.floor(Math.random()*this.icons.length)]})}return l.prototype.itemTapped=function(l,n){this.navCtrl.push(M,{item:n})},l}(),A=(u(231),function(){return function(){}}()),X=u(61),W=u(233),H=u(234),G=u(235),J=u(236),K=u(237),Q=u(238),ll=u(239),nl=u(240),ul=u(241),al=u(58),ol=u(16),tl=u(15),el=u(1),il=u(31),sl=u(44),cl=u(242),rl=u(45),_l=u(80),dl=u(25),hl=u(3),gl=u(19),pl=u(8),fl=u(7),ml=u(6),bl=u(28),Zl=u(5),yl=u(243),Yl=u(29),vl=u(70),wl=u(46),kl=u(22),jl=u(32),zl=u(14),xl=u(13),Il=u(37),Pl=u(11),Cl=u(244),Fl=u(67),Tl=u(41),Dl=u(23),Vl=F.X({encapsulation:2,styles:[],data:{}}),Bl=F.V("ng-component",O,function(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"ng-component",[],null,null,null,o,Vl)),F.Y(1,49152,null,0,O,[hl.a,dl.a,$.a,S.a],null,null)],null,null)},{},{},[]),El=u(126),Ll=u(52),ql=u(20),Ul=u(24),Rl=u(12),$l=u(35),Sl=u(36),Ol=u(34),Ml=u(56),Nl=u(66),Al=u(10),Xl=F.X({encapsulation:2,styles:[],data:{}}),Wl=F.V("page-hello-ionic",U,function(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"page-hello-ionic",[],null,null,null,c,Xl)),F.Y(1,114688,null,0,U,[Ml.a,Nl.a,xl.a,Al.a,D],null,null)],function(l,n){l(n,1,0)},null)},{},{},[]),Hl=u(53),Gl=u(57),Jl=u(27),Kl=u(47),Ql=F.X({encapsulation:2,styles:[],data:{}}),ln=F.V("page-item-details",M,function(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"page-item-details",[],null,null,null,h,Ql)),F.Y(1,49152,null,0,M,[xl.a,Al.a],null,null)],null,null)},{},{},[]),nn=F.X({encapsulation:2,styles:[],data:{}}),un=F.V("page-list",N,function(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"page-list",[],null,null,null,p,nn)),F.Y(1,49152,null,0,N,[xl.a,Al.a],null,null)],null,null)},{},{},[]),an=F.X({encapsulation:2,styles:[],data:{}}),on=F.V("page-identity1",L,function(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"page-identity1",[],null,null,null,f,an)),F.Y(1,49152,null,0,L,[xl.a,Al.a,Zl.a,D,Ml.a],null,null)],null,null)},{},{},[]),tn=F.X({encapsulation:2,styles:[],data:{}}),en=F.V("page-identity2",E,function(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"page-identity2",[],null,null,null,m,tn)),F.Y(1,49152,null,0,E,[xl.a,Nl.a,Al.a,Ml.a,D],null,null)],null,null)},{},{},[]),sn=u(127),cn=u(69),rn=u(245),_n=u(85),dn=u(55),hn=u(246),gn=F.X({encapsulation:2,styles:[],data:{}}),pn=F.V("page-backup2",B,function(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"page-backup2",[],null,null,null,z,gn)),F.Y(1,49152,null,0,B,[xl.a,Al.a],null,null)],null,null)},{},{},[]),fn=F.X({encapsulation:2,styles:[],data:{}}),mn=F.V("page-avatar",V,function(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"page-avatar",[],null,null,null,x,fn)),F.Y(1,49152,null,0,V,[xl.a,Al.a,D],null,null)],null,null)},{},{},[]),bn=F.X({encapsulation:2,styles:[],data:{}}),Zn=F.V("page-recover",q,function(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"page-recover",[],null,null,null,I,bn)),F.Y(1,49152,null,0,q,[xl.a,Al.a],null,null)],null,null)},{},{},[]),yn=F.X({encapsulation:2,styles:[],data:{}}),Yn=F.V("page-verkey",R,function(l){return F._19(0,[(l()(),F.Z(0,0,null,null,1,"page-verkey",[],null,null,null,P,yn)),F.Y(1,49152,null,0,R,[xl.a,Al.a,D],null,null)],null,null)},{},{},[]),vn=u(124),wn=u(98),kn=u(100),jn=u(121),zn=u(43),xn=u(190),In=u(63),Pn=u(54),Cn=u(106),Fn=u(75),Tn=u(111),Dn=u(120),Vn=u(189),Bn=u(122),En=u(105),Ln=u(123),qn=u(194),Un=F.W(A,[X.b],function(l){return F._10([F._11(512,F.i,F.S,[[8,[W.a,H.a,G.a,J.a,K.a,Q.a,ll.a,nl.a,ul.a,Bl,Wl,ln,un,on,en,pn,mn,Zn,Yn]],[3,F.i],F.s]),F._11(4608,T.c,T.c,[]),F._11(4608,T.h,T.b,[]),F._11(5120,T.j,T.k,[]),F._11(4608,T.i,T.i,[T.c,T.h,T.j]),F._11(4608,T.g,T.a,[]),F._11(5120,T.e,T.l,[T.i,T.g]),F._11(5120,F.r,F._9,[[3,F.r]]),F._11(4608,Pl.k,Pl.j,[F.r,[2,Pl.s]]),F._11(5120,F.b,F._0,[]),F._11(5120,F.p,F._6,[]),F._11(5120,F.q,F._7,[]),F._11(4608,C.c,C.q,[Pl.c]),F._11(6144,F.D,null,[C.c]),F._11(4608,C.f,vn.a,[]),F._11(5120,C.d,function(l,n,u,a,o){return[new C.k(l,n),new C.o(u),new C.n(a,o)]},[Pl.c,F.u,Pl.c,Pl.c,C.f]),F._11(4608,C.e,C.e,[C.d,F.u]),F._11(135680,C.m,C.m,[Pl.c]),F._11(4608,C.l,C.l,[C.e,C.m]),F._11(6144,F.B,null,[C.l]),F._11(6144,C.p,null,[C.m]),F._11(4608,F.G,F.G,[F.u]),F._11(4608,C.h,C.h,[Pl.c]),F._11(4608,C.i,C.i,[Pl.c]),F._11(4608,ql.k,ql.k,[]),F._11(4608,ql.c,ql.c,[]),F._11(4608,wn.a,wn.a,[ml.a,el.a]),F._11(4608,kn.a,kn.a,[ml.a,el.a]),F._11(4608,jn.a,jn.a,[]),F._11(4608,tl.a,tl.a,[]),F._11(4608,zn.a,zn.a,[hl.a]),F._11(4608,gl.a,gl.a,[el.a,hl.a,F.u,fl.a]),F._11(4608,Nl.a,Nl.a,[ml.a,el.a]),F._11(5120,Pl.f,xn.b,[Pl.q,[2,Pl.a],el.a]),F._11(4608,Pl.e,Pl.e,[Pl.f]),F._11(5120,In.b,In.d,[ml.a,In.a]),F._11(5120,Dl.a,Dl.b,[ml.a,In.b,Pl.e,Pn.b,F.i]),F._11(4608,Cn.a,Cn.a,[ml.a,el.a,Dl.a]),F._11(4608,Fn.a,Fn.a,[ml.a,el.a]),F._11(4608,Tn.a,Tn.a,[ml.a,el.a,Dl.a]),F._11(4608,Dn.a,Dn.a,[el.a,hl.a,fl.a,ml.a,pl.l]),F._11(4608,Ml.a,Ml.a,[ml.a,el.a]),F._11(4608,Tl.a,Tl.a,[hl.a,el.a]),F._11(4608,$.a,$.a,[]),F._11(4608,S.a,S.a,[]),F._11(4608,D,D,[T.e]),F._11(512,T.f,T.f,[]),F._11(512,Pl.b,Pl.b,[]),F._11(512,F.k,Vn.a,[]),F._11(256,el.b,{scrollAssist:!0,autoFocusAssist:!0},[]),F._11(1024,Bn.a,Bn.b,[]),F._11(1024,hl.a,hl.b,[C.b,Bn.a,F.u]),F._11(1024,el.a,el.c,[el.b,hl.a]),F._11(512,fl.a,fl.a,[hl.a]),F._11(512,dl.a,dl.a,[]),F._11(512,ml.a,ml.a,[el.a,hl.a,[2,dl.a]]),F._11(512,pl.l,pl.l,[ml.a]),F._11(256,In.a,{links:[]},[]),F._11(512,F.h,F.h,[]),F._11(512,En.a,En.a,[F.h]),F._11(1024,Pn.b,Pn.c,[En.a,F.o]),F._11(1024,F.c,function(l,n,u,a,o,t,e,i,s,c,r,_,d){return[C.s(l),Ln.a(n),jn.b(u,a),Dn.b(o,t,e,i,s),Pn.d(c,r,_,d)]},[[2,F.t],el.a,hl.a,fl.a,el.a,hl.a,fl.a,ml.a,pl.l,el.a,In.a,Pn.b,F.u]),F._11(512,F.d,F.d,[[2,F.c]]),F._11(131584,F.f,F.f,[F.u,F.T,F.o,F.k,F.i,F.d]),F._11(512,F.e,F.e,[F.f]),F._11(512,C.a,C.a,[[3,C.a]]),F._11(512,qn.a,qn.a,[]),F._11(512,ql.j,ql.j,[]),F._11(512,ql.d,ql.d,[]),F._11(512,ql.i,ql.i,[]),F._11(512,xn.a,xn.a,[]),F._11(512,A,A,[]),F._11(256,X.a,O,[]),F._11(256,Pl.a,"/",[])])});Object(F.M)(),Object(C.j)().bootstrapModuleFactory(Un)}},[195]);
+webpackJsonp([0],{
+
+/***/ 111:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 111;
+
+/***/ }),
+
+/***/ 153:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 153;
+
+/***/ }),
+
+/***/ 193:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HelloIonicPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__identity1_identity1__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__recover_recover__ = __webpack_require__(198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_alldata_alldata__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+var HelloIonicPage = (function () {
+    function HelloIonicPage(toastCtrl, loadingCtrl, navCtrl, navParams, alldataProvider) {
+        this.toastCtrl = toastCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.alldataProvider = alldataProvider;
+        this.loginFlag = false;
+        this.items = [];
+    }
+    HelloIonicPage.prototype.ngOnInit = function () {
+    };
+    HelloIonicPage.prototype.signup = function (event) {
+        this.requestWallet();
+        this.loginFlag = true;
+        console.log(event, this.loginFlag);
+        var toast = this.toastCtrl.create({
+            message: 'you clicked login button.',
+            duration: 3000,
+            position: 'top'
+        });
+        toast.present();
+    };
+    ;
+    HelloIonicPage.prototype.Login = function (event) {
+        this.loginFlag = false;
+    };
+    ;
+    HelloIonicPage.prototype.recover = function () {
+        this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_3__recover_recover__["a" /* RecoverPage */], {});
+    };
+    HelloIonicPage.prototype.createIdinity = function (event) {
+        this.presentLoading();
+        this.requestWallet();
+        this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_2__identity1_identity1__["a" /* Identity1Page */], {});
+    };
+    HelloIonicPage.prototype.presentLoading = function () {
+        this.loader = this.loadingCtrl.create({
+            content: "Please wait...",
+        });
+        this.loader.present();
+    };
+    HelloIonicPage.prototype.requestWallet = function () {
+        var _this = this;
+        this.alldataProvider
+            .createWallet()
+            .then(function (result) {
+            _this.loader.dismiss();
+            console.log("success", result);
+            _this.items = result;
+            _this.alldataProvider.setvarkey(result.verkey, result.did);
+        })
+            .catch(function (error) {
+            console.log("error", error);
+            _this.loader.dismiss();
+        });
+    };
+    HelloIonicPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-hello-ionic',template:/*ion-inline-start:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/hello-ionic/hello-ionic.html"*/'<!--ion-header>\n  <ion-navbar>\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Hello Ionic</ion-title>\n  </ion-navbar>\n</ion-header-->\n\n\n<ion-content style="overflow-y: scroll;">\n  <!--div class="center">\n    <img src="assets/imgs/phone1.png" border="0" width="160%" height= 160% alt="" class="img_ad">\n  <p class="descreption">This is an Universal Beneficiary Identity.\n    Add Your Identity to ensure that you are up to date with all of your objective.\n    You can do this.\n  </p>\n  </div>\n  \n    <p style="color:white;" class="_center signin">Already Signed up ? <span style="color:white;" (click)="Login($event)"> Login</span> </p>\n    <button ion-button full  large class="createId signin">Create Identity</button-->    \n      <ion-grid style="width:100%  ;padding: 0;height:100%;overflow-y: scroll;    height: 100vh;">\n        <ion-row responsive-sm style="width:100% ; height:15vh">\n        </ion-row>\n        <ion-row style="width:100% ;height: 11vh; background-color: white;" >\n            <ion-col col-3>\n              </ion-col>\n          <ion-col col-5 class="center">\n            <img  src="assets/imgs/510logo.png" border="0" alt="" class="img_ad">\n          </ion-col>\n          <ion-col col-3>\n          </ion-col>\n        </ion-row>\n        <ion-row style="width:100% ; height:35vh;  padding-top: 6%;">\n            <ion-col col-1>\n              </ion-col>\n          <ion-col col-10>\n              <p *ngIf="!loginFlag" class="descreption">This app contains your Universal Beneficiary Identity. \n                </p>   \n                <p *ngIf="!loginFlag" class="descreption"> \n                    You can use it to receive aid from various humanitarian organisations\n                  </p>       \n              \n                <ion-list *ngIf="loginFlag">\n\n                  <!--ion-item class="loginInput">\n                    <ion-label fixed>Username</ion-label>\n                    <ion-input type="text" value="" placeholder="Enter your username"></ion-input>\n                  </ion-item>\n                \n                  <ion-item class="loginInput" >\n                    <ion-label fixed>Password</ion-label>\n                    <ion-input type="password" placeholder="Enter the password"></ion-input>\n                  </ion-item-->\n                  <div class="mnText"><span>Username</span></div>\n                <ion-item class="borders loginInput">\n                  <ion-input type="text" placeholder="Enter your username" ></ion-input>\n                </ion-item> \n                <div class="mnText"><span>Password</span></div>\n                <ion-item class="borders loginInput">\n                  <ion-input type="password" placeholder="Enter the password" ></ion-input>\n                </ion-item> \n                \n                </ion-list> \n          </ion-col>\n          <ion-col col-1>\n          </ion-col>\n        </ion-row>\n       \n        \n        <ion-row style="width:100% ; height:25vh">\n              <!--p *ngIf="!loginFlag" style="color:white; margin-bottom: 0px;" class="_center signin">Already Signed up ? <span style="color:white;" (click)="signup($event)"> Login</span> </p-->\n              <p style="color:#205666; margin-bottom: 0px;" class="_center signin" (click)="recover()">Or Recover your Id? </p>\n              <button *ngIf="!loginFlag" ion-button full  button-full large class="createId signin" (click)="createIdinity($event)">Create Identity</button>                    \n              <p style="color:gray; margin-bottom: 0px;    font-size: 14px;" class="_center signin" >powered by <span style="color:#488aff;">tykn.tech </span></p>\n              <!--p *ngIf="loginFlag" style="color:white; margin-bottom: 0px;" class="_center signin">Not Signed up  Yet? <span style="color:white;" (click)="Login($event)"> Sign Up</span> </p>\n              <button *ngIf="loginFlag" ion-button full  button-full large class="createId signin">Login</button-->                    \n            </ion-row>\n      </ion-grid>      \n    </ion-content>\n\n'/*ion-inline-end:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/hello-ionic/hello-ionic.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* ToastController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavParams */], __WEBPACK_IMPORTED_MODULE_4__providers_alldata_alldata__["a" /* AlldataProvider */]])
+    ], HelloIonicPage);
+    return HelloIonicPage;
+}());
+
+//# sourceMappingURL=hello-ionic.js.map
+
+/***/ }),
+
+/***/ 194:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Identity1Page; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__identity2_identity2__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_alldata_alldata__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+/**
+ * Generated class for the Identity1Page page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+
+var Identity1Page = (function () {
+    function Identity1Page(navCtrl, navParams, viewCtrl, alldataProvider, toastCtrl) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.viewCtrl = viewCtrl;
+        this.alldataProvider = alldataProvider;
+        this.toastCtrl = toastCtrl;
+        this.name = '';
+        this.dob = '';
+    }
+    Identity1Page.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad Identity1Page');
+        this.viewCtrl.setBackButtonText('Welcome Screen');
+    };
+    Identity1Page.prototype.login = function (event) {
+        var toast = this.toastCtrl.create({
+            message: 'you clicked login button.',
+            duration: 3000,
+            position: 'top'
+        });
+        toast.present();
+    };
+    ;
+    Identity1Page.prototype.gotoIdentity2 = function (event) {
+        console.log("name", this.name, this.dob);
+        this.alldataProvider.setName(this.name, this.dob);
+        this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_2__identity2_identity2__["a" /* Identity2Page */], {});
+    };
+    Identity1Page = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-identity1',template:/*ion-inline-start:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/identity1/identity1.html"*/'<!--\n  Generated template for the Identity1Page page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <!--ion-title style="color: #1C65E9 !important">Welcome Screen</ion-title-->\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content >\n  <ion-grid style="width:100% ; height:100vh  ;padding: 0;">\n    <ion-row style="width:100% ; height:15vh">\n    </ion-row>\n    <ion-row style="width:100% ; height:13vh">\n        <ion-col col-3>\n        </ion-col>\n        <ion-col col-6 class="" style="text-align: -webkit-center;">\n          <div class="takephoto">\n          <ion-icon class="cicon" ios="ios-camera" md="md-camera"></ion-icon>\n          <div style="margin-bottom: 13px;"> <span style="color:red">take a photo</span></div>\n          </div>\n        </ion-col>\n      <ion-col col-3>\n      </ion-col>\n    </ion-row>\n    <ion-row style="width:100% ; height:7vh">\n    </ion-row>\n    <ion-row style="width:100% ; height:14vh">\n        <ion-col col-1>\n          </ion-col>\n      <ion-col col-10 class="">\n          <ion-list>\n              <div class="mnText"><span class="cspan">Name</span></div>\n              <ion-item class="borders">\n                <ion-input type="text" [(ngModel)]="name" class="phoneInput" placeholder="Enter your full name"></ion-input>\n              </ion-item>    \n              <div class="mnText2 mnText"><span class="cspan">Date Of Birth</span></div>\n              <ion-item class="borders">\n                <ion-input type="text" [(ngModel)]="dob" class="phoneInput" placeholder="Enter your date of birth"></ion-input>\n              </ion-item>                     \n            </ion-list>      \n      </ion-col>\n      <ion-col col-1>\n        </ion-col>\n    </ion-row>\n    <ion-row style="width:100% ; height:11vh;">\n   \n    </ion-row>\n   \n    \n    <ion-row style="width:100% ; height:25vh">\n          <p style="color:grey; margin-bottom: 0px;" class="_center">Your info is stored only on this device</p>\n          <button ion-button full  button-full large class="next" (click)="gotoIdentity2($event)">Next</button>    \n          <p style="color:gray; margin-bottom: 0px;    font-size: 14px;" class="_center signin" >powered by <span style="color:#488aff;">tykn.tech </span></p>                                \n        </ion-row>\n  </ion-grid>   \n</ion-content>\n'/*ion-inline-end:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/identity1/identity1.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavParams */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* ViewController */],
+            __WEBPACK_IMPORTED_MODULE_3__providers_alldata_alldata__["a" /* AlldataProvider */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* ToastController */]])
+    ], Identity1Page);
+    return Identity1Page;
+}());
+
+//# sourceMappingURL=identity1.js.map
+
+/***/ }),
+
+/***/ 195:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Identity2Page; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__backup2_backup2__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_alldata_alldata__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+/**
+ * Generated class for the Identity2Page page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+var Identity2Page = (function () {
+    function Identity2Page(navCtrl, loadingCtrl, navParams, toastCtrl, alldataProvider) {
+        this.navCtrl = navCtrl;
+        this.loadingCtrl = loadingCtrl;
+        this.navParams = navParams;
+        this.toastCtrl = toastCtrl;
+        this.alldataProvider = alldataProvider;
+    }
+    Identity2Page.prototype.presentLoading = function () {
+        this.loader = this.loadingCtrl.create({
+            content: "Please wait...",
+        });
+        this.loader.present();
+    };
+    Identity2Page.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad Identity2Page');
+    };
+    Identity2Page.prototype.login = function (event) {
+        var toast = this.toastCtrl.create({
+            message: 'you clicked login button.',
+            duration: 3000,
+            position: 'top'
+        });
+        toast.present();
+    };
+    ;
+    Identity2Page.prototype.gotoBackup2 = function (event) {
+        this.presentLoading();
+        this.sharding();
+    };
+    Identity2Page.prototype.sharding = function () {
+        var _this = this;
+        this.alldataProvider
+            .requestSharding()
+            .then(function (result) {
+            _this.loader.dismiss();
+            console.log("success", result);
+            _this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_2__backup2_backup2__["a" /* Backup2Page */], {
+                param1: result.shards
+            });
+        })
+            .catch(function (error) {
+            console.log("error", error);
+            _this.loader.dismiss();
+        });
+    };
+    Identity2Page = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-identity2',template:/*ion-inline-start:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/identity2/identity2.html"*/'<!--\n  Generated template for the Identity1Page page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n    <ion-navbar>\n      <!--ion-title style="color: #1C65E9 !important">Welcome Screen</ion-title-->\n    </ion-navbar>\n  \n  </ion-header>\n  \n  \n  <ion-content >\n    <ion-grid style="width:100% ; height:100vh  ;padding: 0;">\n      <ion-row style="width:100% ; height:11vh">\n      </ion-row>\n      <ion-row style="width:100% ; height:13vh">\n          <ion-col col-1>\n          </ion-col>\n        <ion-col col-10 class="center">\n        <h3 style="color:#205666;font-weight: bold;">Backup your Red Cross ID</h3>\n        </ion-col>\n        <ion-col col-1>\n        </ion-col>\n      </ion-row>\n      <ion-row style="width:100% ; height:2vh">\n      </ion-row>\n      <ion-row style="width:100% ; height:14vh">\n          <ion-col col-1>\n            </ion-col>\n        <ion-col col-10 class="">\n                  <div><p class="mycolor">Your ID backup consists of three recovery codes. Save one your self and share the other two with people you trust.</p></div>\n        </ion-col>\n        <ion-col col-1>\n          </ion-col>\n      </ion-row>\n      <ion-row style="width:100% ; height:14vh">\n          <ion-col col-1>\n            </ion-col>\n        <ion-col col-10 class="">\n                  <div><p class="mycolor">If you lose your phone you can recover your ID by bringing back the codes.</p>  </div>         \n        </ion-col>\n        <ion-col col-1>\n          </ion-col>\n      </ion-row>\n      <ion-row style="width:100% ; height:5vh;">\n     \n      </ion-row>\n     \n      \n      <ion-row style="width:100% ; height:25vh">\n            <p style="color:grey; margin-bottom: 0px;" class="_center">Skip for now</p>\n            <button ion-button full  button-full large class="next" (click)="gotoBackup2($event)">Start</button>    \n            <p style="color:gray; margin-bottom: 0px;    font-size: 14px;" class="_center signin" >powered by <span style="color:#488aff;">tykn.tech </span></p>                                \n          </ion-row>\n    </ion-grid>   \n  </ion-content>\n  '/*ion-inline-end:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/identity2/identity2.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* LoadingController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavParams */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* ToastController */], __WEBPACK_IMPORTED_MODULE_3__providers_alldata_alldata__["a" /* AlldataProvider */]])
+    ], Identity2Page);
+    return Identity2Page;
+}());
+
+//# sourceMappingURL=identity2.js.map
+
+/***/ }),
+
+/***/ 196:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Backup2Page; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__avatar_avatar__ = __webpack_require__(99);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+/**
+ * Generated class for the Backup2Page page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+var Backup2Page = (function () {
+    function Backup2Page(navCtrl, navParams) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.parameter1 = [];
+        this.mydata = [];
+        this.parameter1 = navParams.get('param1');
+        console.log("my param", this.parameter1);
+        this.mydata = [
+            { text: "Do you want to share a part of your recovery key with the Red Cross ", index: "", id: 1, code: "" },
+            { text: "Save the SECOND recovery code of your ID", index: "", id: 2, code: this.parameter1[1] },
+            { text: "Save the THIRD recovery code of your ID", index: "", id: 3, code: this.parameter1[2] }
+        ];
+    }
+    Backup2Page.prototype.goToSlide = function () {
+        this.slides.slideNext();
+    };
+    Backup2Page.prototype.goToBack = function () {
+        this.slides.slidePrev();
+    };
+    Backup2Page.prototype.Backup = function () {
+        this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_2__avatar_avatar__["a" /* AvatarPage */], {});
+    };
+    Backup2Page.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad Backup2Page');
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_8" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* Slides */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* Slides */])
+    ], Backup2Page.prototype, "slides", void 0);
+    Backup2Page = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-backup2',template:/*ion-inline-start:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/backup2/backup2.html"*/'<!--\n  Generated template for the BackupPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n    <ion-navbar>\n    </ion-navbar>\n  </ion-header>\n  \n  \n  <ion-content padding>\n      <ion-slides>\n          <ion-slide *ngFor="let data of mydata">\n\n              <ion-grid style="width:100% ; height:100vh  ;padding: 0;">\n                  <ion-row style="margin-top: 41px;width: 100%;height: 11vh;font-size: 17px;margin-bottom: -20px;">\n                      <ion-col col-3>\n                        </ion-col>\n                        <ion-col col-6> \n                            <ion-icon [ngClass]="{\'red\':data.id == 1 }" ios="ios-radio-button-on" md="md-radio-button-on"></ion-icon>\n                            <ion-icon [ngClass]="{\'red\':data.id == 2 }" ios="ios-radio-button-on" md="md-radio-button-on"></ion-icon>\n                            <ion-icon [ngClass]="{\'red\':data.id == 3}"  ios="ios-radio-button-on" md="md-radio-button-on"></ion-icon>\n                        </ion-col>\n                        <ion-col col-3>\n                        </ion-col> \n                  </ion-row>\n                  <ion-row style="width:100% ; height:13vh">\n                      <ion-col col-1>\n                      </ion-col>\n                    <ion-col col-10 class="center">\n                    <h3 style="color:#205666;font-weight: bold;">{{data.text}}</h3>\n                    </ion-col>\n                    <ion-col col-1>\n                    </ion-col>\n                  </ion-row>\n                  <ion-row style="width:100% ; height:2vh">\n                  </ion-row>\n                  <ion-row style="width:100% ; height:14vh">\n                      <ion-col col-1>\n                        </ion-col>\n                    <ion-col  *ngIf= "data.id !=1"  col-10 class="">\n                              <div><p class="mycolor">Safely store the below code somewhere <span style="font-weight:bold"> {{data.id}}/3</span></p></div>\n                    </ion-col>\n                    <ion-col col-10 class=""  *ngIf= "data.id ==1" >\n                        <div><p class="mycolor"> The Red Cross takes care of safekeeping of your part <span style="font-weight:bold"> {{data.id}}/3</span></p></div>\n                    </ion-col>\n                    <ion-col col-1>\n                      </ion-col>\n                  </ion-row>\n                  <ion-row style="width:100% ; height:7vh">\n                      <ion-col col-1>\n                        </ion-col>\n                    <ion-col col-10 class="">\n                              <div><p style="color:red;font-size: 12px;">{{data.code}}</p>  </div>         \n                    </ion-col>\n                    <ion-col col-1>\n                      </ion-col>\n                  </ion-row>\n                 \n                  <ion-row  style="width:100% ;height: 20vh;" >\n                      <ion-col col-3>\n                        </ion-col>\n                    <ion-col *ngIf= "data.id !=1"   col-5 class="center">\n                        <qrcode [qrdata]= "data.code" [size]="256" [level]="\'M\'"></qrcode >                    \n                        </ion-col>\n                    <ion-col col-3>\n                    </ion-col>\n                  </ion-row> \n                  <ion-row style="width:100% ; height:7vh">\n                      <ion-col col-4 class=""></ion-col>\n                      <ion-col *ngIf= "data.id !=1" col-4 class=""><span style="color:gray; font-size: 14px;" >share now</span></ion-col>\n                      <ion-col col-4 class=""></ion-col>\n                    </ion-row>              \n                  <ion-row *ngIf= "data.id==1" style="width:100% ; height:15vh">\n            \n                      <ion-col col-12 class="">\n                          <button ion-button full  button-full large  icon-right  large class="next" (click)="goToSlide()">\n                              yes                                     \n                            </button>\n                            <p style="color:grey; margin-bottom: 0px;font-size: 14px;" class="_center">No</p>\n\n                      </ion-col>\n                     \n                      </ion-row>\n                   <ion-row *ngIf= "data.id==2" style="width:100% ; height:15vh; ">\n                      <ion-col col-6 class="">\n                          <button ion-button full  button-full icon-left large class="next" (click)="goToBack()">\n                              <ion-icon   name="rewind"></ion-icon>\n                              Back\n                            </button>\n                      </ion-col>\n                   \n                      <ion-col col-6 class="">\n                          <button ion-button full  button-full icon-right  large class="next" (click)="goToSlide()">\n                              next\n                              <ion-icon  name="fastforward"></ion-icon>                         \n                            </button>\n                        </ion-col>\n                      </ion-row>\n\n                  <ion-row *ngIf= "data.id==3" style="width:100% ; height:15vh;  ">\n                      <ion-col col-6 class="">\n                          <button ion-button full  button-full icon-left large class="next" (click)="goToBack()">\n                              <ion-icon   name="rewind"></ion-icon>\n                              Back\n                            </button>\n                      </ion-col>\n \n                      <ion-col col-6 class="">\n                          <button ion-button full  button-full icon-right  large class="next" (click)="Backup()">\n                              BackUp                       \n                            </button>\n                        </ion-col>\n                     \n                      </ion-row>\n                      <ion-row style="width:100% ; height:5vh;">\n                          <p style="color:gray; margin-bottom: 0px;    font-size: 14px;" class="_center signin" >powered by <span style="color:#488aff;">tykn.tech </span></p>                                \n                        </ion-row>\n                </ion-grid> \n          </ion-slide>\n        \n        </ion-slides>\n  </ion-content>\n  '/*ion-inline-end:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/backup2/backup2.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavParams */]])
+    ], Backup2Page);
+    return Backup2Page;
+}());
+
+//# sourceMappingURL=backup2.js.map
+
+/***/ }),
+
+/***/ 198:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RecoverPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(10);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+/**
+ * Generated class for the RecoverPage page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+var RecoverPage = (function () {
+    function RecoverPage(navCtrl, navParams) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+    }
+    RecoverPage.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad RecoverPage');
+    };
+    RecoverPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-recover',template:/*ion-inline-start:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/recover/recover.html"*/'<!--\n  Generated template for the Identity1Page page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n    <ion-navbar>\n      <!--ion-title style="color: #1C65E9 !important">Welcome Screen</ion-title-->\n    </ion-navbar>\n  \n  </ion-header>\n  \n  \n  <ion-content >\n    <ion-grid style="width:100% ; height:100vh  ;padding: 0;">\n      <ion-row style="width:100% ; height:11vh">\n      </ion-row>\n      <ion-row style="width:100% ; height:10vh">\n          <ion-col col-1>\n          </ion-col>\n        <ion-col col-10 class="center">\n        <h3 style="color:#205666;font-weight: bold;">Enter the recovery codes</h3>\n        </ion-col>\n        <ion-col col-1>\n        </ion-col>\n      </ion-row>\n      <ion-row style="width:100% ; height:2vh">\n      </ion-row>\n      <ion-row style="width:100% ; height:10vh">\n          <ion-col col-1>\n            </ion-col>\n        <ion-col col-10 class="">\n                  <div><p class="mycolor">Only two out of the trhee recovery codes are needed to recover your ID</p></div>\n        </ion-col>\n        <ion-col col-1>\n          </ion-col>\n      </ion-row>\n      <ion-row style="width:100% ; height:30vh">\n          <ion-col col-1>\n            </ion-col>\n        <ion-col col-10 class="">\n            <ion-list>\n                <div class="mnText"><span class="cspan">Recovery code 1</span></div>\n                <ion-item class="borders">\n                  <ion-input type="text" class="phoneInput" placeholder="Enter code or scan"></ion-input>\n                  <ion-icon name="ios-qr-scanner" item-end></ion-icon>\n                </ion-item>    \n                <div class="mnText2 mnText"><span class="cspan">Recovery code 2</span></div>\n                <ion-item class="borders">\n                  <ion-input type="text" class="phoneInput" placeholder="Enter code or scan"></ion-input>\n                  <ion-icon name="ios-qr-scanner" item-end></ion-icon>\n                </ion-item>                     \n              </ion-list>      \n        </ion-col>\n        <ion-col col-1>\n          </ion-col>\n      </ion-row>\n      <ion-row style="width:100% ; height:5vh;">\n     \n      </ion-row>\n     \n      \n      <ion-row style="width:100% ; height:25vh">\n            <button ion-button full  button-full large class="next" (click)="gotoBackup2($event)">Recover</button>    \n            <p style="color:gray; margin-bottom: 0px;    font-size: 14px;" class="_center signin" >powered by <span style="color:#488aff;">tykn.tech </span></p>                                \n          </ion-row>\n    </ion-grid>   \n  </ion-content>\n  '/*ion-inline-end:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/recover/recover.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavParams */]])
+    ], RecoverPage);
+    return RecoverPage;
+}());
+
+//# sourceMappingURL=recover.js.map
+
+/***/ }),
+
+/***/ 199:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return VerkeyPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_alldata_alldata__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+/**
+ * Generated class for the VerkeyPage page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+var VerkeyPage = (function () {
+    function VerkeyPage(navCtrl, navParams, alldataProvider) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.alldataProvider = alldataProvider;
+        this.didkey = alldataProvider.gettdidkey();
+        console.log("get did ", this.didkey);
+    }
+    VerkeyPage.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad VerkeyPage');
+    };
+    VerkeyPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-verkey',template:/*ion-inline-start:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/verkey/verkey.html"*/'<!--\n  Generated template for the VerkeyPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <ion-title>verification</ion-title>\n    <ion-buttons end>\n        <button ion-button menuToggle icon-only >\n          <ion-icon name="options"></ion-icon>\n        </button>\n      </ion-buttons>\n  </ion-navbar>\n</ion-header>\n\n\n<ion-content padding>\n    <ion-grid style="width:100% ; height:100vh  ;padding: 0;">\n        <ion-row style="width:100% ; height:23vh"></ion-row>\n        <ion-row style="width:100% ; height:43vh">\n            <ion-col col-2>\n              </ion-col>\n          <ion-col col-8 class="center">\n            <div style="    margin-bottom: 21px;\n            text-align: center;\n            margin-top: 10px;\n            font-size: 18px;">\n            <span>verification key</span></div>\n              <qrcode [qrdata]= "didkey" [size]="256" [level]="\'M\'"></qrcode >                    \n              </ion-col>\n          <ion-col col-2>\n          </ion-col>\n        </ion-row>\n        <ion-row style="width:100% ; height:33vh"></ion-row>\n\n    </ion-grid>\n\n</ion-content>\n'/*ion-inline-end:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/verkey/verkey.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavParams */], __WEBPACK_IMPORTED_MODULE_2__providers_alldata_alldata__["a" /* AlldataProvider */]])
+    ], VerkeyPage);
+    return VerkeyPage;
+}());
+
+//# sourceMappingURL=verkey.js.map
+
+/***/ }),
+
+/***/ 204:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ItemDetailsPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(10);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var ItemDetailsPage = (function () {
+    function ItemDetailsPage(navCtrl, navParams) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        // If we navigated to this page, we will have an item available as a nav param
+        this.selectedItem = navParams.get('item');
+    }
+    ItemDetailsPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-item-details',template:/*ion-inline-start:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/item-details/item-details.html"*/'<ion-header>\n  <ion-navbar>\n    <button menuToggle *ngIf="!selectedItem">\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Item Details</ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content>\n  <h3 text-center *ngIf="selectedItem">\n    {{selectedItem.title}}\n    <ion-icon [name]="selectedItem.icon"></ion-icon>\n  </h3>\n  <h4 text-center *ngIf="selectedItem">\n    You navigated here from <b>{{selectedItem.title}}</b>\n  </h4>\n</ion-content>\n'/*ion-inline-end:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/item-details/item-details.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavParams */]])
+    ], ItemDetailsPage);
+    return ItemDetailsPage;
+}());
+
+//# sourceMappingURL=item-details.js.map
+
+/***/ }),
+
+/***/ 206:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(207);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_module__ = __webpack_require__(230);
+
+
+Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_1__app_module__["a" /* AppModule */]);
+//# sourceMappingURL=main.js.map
+
+/***/ }),
+
+/***/ 230:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(27);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_component__ = __webpack_require__(272);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__pages_hello_ionic_hello_ionic__ = __webpack_require__(193);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__pages_item_details_item_details__ = __webpack_require__(204);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_list_list__ = __webpack_require__(283);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__pages_identity1_identity1__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__pages_identity2_identity2__ = __webpack_require__(195);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__pages_backup2_backup2__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__pages_avatar_avatar__ = __webpack_require__(99);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__pages_recover_recover__ = __webpack_require__(198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__pages_verkey_verkey__ = __webpack_require__(199);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__ionic_native_status_bar__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__ionic_native_splash_screen__ = __webpack_require__(203);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__providers_alldata_alldata__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16_angularx_qrcode__ = __webpack_require__(284);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__angular_http__ = __webpack_require__(197);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var AppModule = (function () {
+    function AppModule() {
+    }
+    AppModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */],
+                __WEBPACK_IMPORTED_MODULE_4__pages_hello_ionic_hello_ionic__["a" /* HelloIonicPage */],
+                __WEBPACK_IMPORTED_MODULE_5__pages_item_details_item_details__["a" /* ItemDetailsPage */],
+                __WEBPACK_IMPORTED_MODULE_6__pages_list_list__["a" /* ListPage */],
+                __WEBPACK_IMPORTED_MODULE_7__pages_identity1_identity1__["a" /* Identity1Page */],
+                __WEBPACK_IMPORTED_MODULE_8__pages_identity2_identity2__["a" /* Identity2Page */],
+                __WEBPACK_IMPORTED_MODULE_9__pages_backup2_backup2__["a" /* Backup2Page */],
+                __WEBPACK_IMPORTED_MODULE_10__pages_avatar_avatar__["a" /* AvatarPage */], __WEBPACK_IMPORTED_MODULE_11__pages_recover_recover__["a" /* RecoverPage */], __WEBPACK_IMPORTED_MODULE_12__pages_verkey_verkey__["a" /* VerkeyPage */]
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_17__angular_http__["c" /* HttpModule */],
+                __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
+                __WEBPACK_IMPORTED_MODULE_16_angularx_qrcode__["a" /* QRCodeModule */],
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["c" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */], {
+                    scrollAssist: true,
+                    autoFocusAssist: true
+                }, {
+                    links: []
+                })
+            ],
+            bootstrap: [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["a" /* IonicApp */]],
+            entryComponents: [
+                __WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */],
+                __WEBPACK_IMPORTED_MODULE_4__pages_hello_ionic_hello_ionic__["a" /* HelloIonicPage */],
+                __WEBPACK_IMPORTED_MODULE_5__pages_item_details_item_details__["a" /* ItemDetailsPage */],
+                __WEBPACK_IMPORTED_MODULE_6__pages_list_list__["a" /* ListPage */],
+                __WEBPACK_IMPORTED_MODULE_7__pages_identity1_identity1__["a" /* Identity1Page */],
+                __WEBPACK_IMPORTED_MODULE_8__pages_identity2_identity2__["a" /* Identity2Page */],
+                __WEBPACK_IMPORTED_MODULE_9__pages_backup2_backup2__["a" /* Backup2Page */],
+                __WEBPACK_IMPORTED_MODULE_10__pages_avatar_avatar__["a" /* AvatarPage */], __WEBPACK_IMPORTED_MODULE_11__pages_recover_recover__["a" /* RecoverPage */], __WEBPACK_IMPORTED_MODULE_12__pages_verkey_verkey__["a" /* VerkeyPage */]
+            ],
+            providers: [
+                __WEBPACK_IMPORTED_MODULE_13__ionic_native_status_bar__["a" /* StatusBar */],
+                __WEBPACK_IMPORTED_MODULE_14__ionic_native_splash_screen__["a" /* SplashScreen */],
+                { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["u" /* ErrorHandler */], useClass: __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["b" /* IonicErrorHandler */] },
+                __WEBPACK_IMPORTED_MODULE_15__providers_alldata_alldata__["a" /* AlldataProvider */]
+            ]
+        })
+    ], AppModule);
+    return AppModule;
+}());
+
+//# sourceMappingURL=app.module.js.map
+
+/***/ }),
+
+/***/ 272:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MyApp; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__pages_hello_ionic_hello_ionic__ = __webpack_require__(193);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__pages_avatar_avatar__ = __webpack_require__(99);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__pages_verkey_verkey__ = __webpack_require__(199);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ionic_native_status_bar__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ionic_native_splash_screen__ = __webpack_require__(203);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+var MyApp = (function () {
+    function MyApp(platform, menu, statusBar, splashScreen) {
+        this.platform = platform;
+        this.menu = menu;
+        this.statusBar = statusBar;
+        this.splashScreen = splashScreen;
+        // make HelloIonicPage the root (or first) page
+        this.rootPage = __WEBPACK_IMPORTED_MODULE_2__pages_hello_ionic_hello_ionic__["a" /* HelloIonicPage */];
+        this.initializeApp();
+        // set our app's pages
+        this.pages = [
+            { title: 'Home Page', component: __WEBPACK_IMPORTED_MODULE_3__pages_avatar_avatar__["a" /* AvatarPage */] },
+            { title: 'Backup your ID', component: __WEBPACK_IMPORTED_MODULE_2__pages_hello_ionic_hello_ionic__["a" /* HelloIonicPage */] },
+            { title: 'Verfication key', component: __WEBPACK_IMPORTED_MODULE_4__pages_verkey_verkey__["a" /* VerkeyPage */] }
+        ];
+    }
+    MyApp.prototype.initializeApp = function () {
+        var _this = this;
+        this.platform.ready().then(function () {
+            // Okay, so the platform is ready and our plugins are available.
+            // Here you can do any higher level native things you might need.
+            _this.statusBar.styleDefault();
+            _this.splashScreen.hide();
+        });
+    };
+    MyApp.prototype.openPage = function (page) {
+        // close the menu when clicking a link from the menu
+        this.menu.close();
+        // navigate to the new page if it is not the current page
+        this.nav.setRoot(page.component);
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_8" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Nav */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Nav */])
+    ], MyApp.prototype, "nav", void 0);
+    MyApp = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({template:/*ion-inline-start:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/app/app.html"*/'<ion-menu [content]="content" side="right">\n\n  <ion-header>\n    <ion-toolbar>\n      <ion-title>Pages</ion-title>\n    </ion-toolbar>\n  </ion-header>\n\n  <ion-content>\n    <ion-list>\n      <button ion-item *ngFor="let p of pages" (click)="openPage(p)">\n        {{p.title}}\n      </button>\n    </ion-list>\n  </ion-content>\n\n</ion-menu>\n\n<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>\n'/*ion-inline-end:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/app/app.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* Platform */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* MenuController */],
+            __WEBPACK_IMPORTED_MODULE_5__ionic_native_status_bar__["a" /* StatusBar */],
+            __WEBPACK_IMPORTED_MODULE_6__ionic_native_splash_screen__["a" /* SplashScreen */]])
+    ], MyApp);
+    return MyApp;
+}());
+
+//# sourceMappingURL=app.component.js.map
+
+/***/ }),
+
+/***/ 283:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ListPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item_details_item_details__ = __webpack_require__(204);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var ListPage = (function () {
+    function ListPage(navCtrl, navParams) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.icons = ['flask', 'wifi', 'beer', 'football', 'basketball', 'paper-plane',
+            'american-football', 'boat', 'bluetooth', 'build'];
+        this.items = [];
+        for (var i = 1; i < 11; i++) {
+            this.items.push({
+                title: 'Item ' + i,
+                note: 'This is item #' + i,
+                icon: this.icons[Math.floor(Math.random() * this.icons.length)]
+            });
+        }
+    }
+    ListPage.prototype.itemTapped = function (event, item) {
+        this.navCtrl.push(__WEBPACK_IMPORTED_MODULE_2__item_details_item_details__["a" /* ItemDetailsPage */], {
+            item: item
+        });
+    };
+    ListPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-list',template:/*ion-inline-start:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/list/list.html"*/'<ion-header>\n  <ion-navbar>\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>My First List</ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content>\n  <ion-list>\n    <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">\n      <ion-icon name="{{item.icon}}" item-left></ion-icon>\n      {{item.title}}\n      <div class="item-note" item-right>\n        {{item.note}}\n      </div>\n    </button>\n  </ion-list>\n</ion-content>\n'/*ion-inline-end:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/list/list.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavParams */]])
+    ], ListPage);
+    return ListPage;
+}());
+
+//# sourceMappingURL=list.js.map
+
+/***/ }),
+
+/***/ 32:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AlldataProvider; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_http__ = __webpack_require__(197);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__ = __webpack_require__(273);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_toPromise__ = __webpack_require__(274);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_toPromise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_toPromise__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+/*
+  Generated class for the AlldataProvider provider.
+
+  See https://angular.io/guide/dependency-injection for more info on providers
+  and Angular DI.
+*/
+var AlldataProvider = (function () {
+    function AlldataProvider(http) {
+        this.http = http;
+        this.url = 'https://redy.blockchain-innovation.org:9443/';
+        console.log('Hello AlldataProvider Provider');
+    }
+    AlldataProvider.prototype.createWallet = function () {
+        var headers = new __WEBPACK_IMPORTED_MODULE_0__angular_http__["a" /* Headers */]({
+            'Content-Type': 'application/x-www-form-urlencoded'
+        });
+        var options = new __WEBPACK_IMPORTED_MODULE_0__angular_http__["d" /* RequestOptions */]({ headers: headers });
+        console.log("url", this.url);
+        return this.http
+            .post(this.url + "create_identity", {}, options)
+            .toPromise()
+            .then(this.extractData)
+            .catch(this.handleError);
+    };
+    AlldataProvider.prototype.requestSharding = function () {
+        var headers = new __WEBPACK_IMPORTED_MODULE_0__angular_http__["a" /* Headers */]({
+            'Content-Type': 'application/x-www-form-urlencoded'
+        });
+        var options = new __WEBPACK_IMPORTED_MODULE_0__angular_http__["d" /* RequestOptions */]({ headers: headers });
+        var data = JSON.stringify({
+            seed: "!]{4Df9j`umwg7GOcZBc4QJ[YeUMYD!I"
+        });
+        return this.http
+            .post(this.url + "secret_sharding", data, options)
+            .toPromise()
+            .then(this.extractData)
+            .catch(this.handleError);
+    };
+    AlldataProvider.prototype.recoverKey = function () {
+        var headers = new __WEBPACK_IMPORTED_MODULE_0__angular_http__["a" /* Headers */]({
+            'Content-Type': 'application/x-www-form-urlencoded'
+        });
+        var options = new __WEBPACK_IMPORTED_MODULE_0__angular_http__["d" /* RequestOptions */]({ headers: headers });
+        var data = JSON.stringify({
+            shards: ["1-ccb20402f19e2dd476ba1441c55c7f4dac43a28ed6307019a650a57b86f434c9",
+                "2-99640805e32d134fe76b6eced4b55e2b78588de8b1221d27d19098b7bbc4e595"]
+        });
+        return this.http
+            .post(this.url + "secret_recovery", data, options)
+            .toPromise()
+            .then(this.extractData)
+            .catch(this.handleError);
+    };
+    AlldataProvider.prototype.test = function () {
+        return this.http
+            .get('https://tsh-app.firebaseio.com/events.json')
+            .toPromise()
+            .then(this.extractData)
+            .catch(this.handleError);
+    };
+    AlldataProvider.prototype.testGet = function () {
+        console.log("url", 'http://149.210.250.124:9000/get');
+        return this.http
+            .get('http://149.210.250.124:9000/get')
+            .toPromise()
+            .then(this.extractData)
+            .catch(this.handleError);
+    };
+    AlldataProvider.prototype.extractData = function (res) {
+        var events = res.json();
+        return events || {};
+    };
+    AlldataProvider.prototype.setvarkey = function (verkey, did) {
+        this.verkey = verkey;
+        this.did = did;
+        console.log('set value from provider', this.verkey, this.did);
+        this.verFlag = "unverfied";
+    };
+    AlldataProvider.prototype.setName = function (name, dob) {
+        this.name = name;
+        this.dob = dob;
+        console.log('set value from provider', this.verkey, this.did);
+    };
+    AlldataProvider.prototype.gettvarkey = function () {
+        return (this.verkey);
+    };
+    AlldataProvider.prototype.gettdidkey = function () {
+        this.verFlag = "verified";
+        return (this.did);
+    };
+    AlldataProvider.prototype.getname = function () {
+        return (this.name);
+    };
+    AlldataProvider.prototype.getVerfication = function () {
+        return (this.name);
+    };
+    AlldataProvider.prototype.setVerFlag = function () {
+        return (this.verFlag);
+    };
+    AlldataProvider.prototype.getdob = function () {
+        return (this.dob);
+    };
+    AlldataProvider.prototype.handleError = function (error) {
+        console.error('An error occurred', error);
+        return Promise.reject(error.message || error);
+    };
+    AlldataProvider = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_3__angular_core__["A" /* Injectable */])(),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_0__angular_http__["b" /* Http */]])
+    ], AlldataProvider);
+    return AlldataProvider;
+}());
+
+//# sourceMappingURL=alldata.js.map
+
+/***/ }),
+
+/***/ 99:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AvatarPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_alldata_alldata__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+/**
+ * Generated class for the AvatarPage page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+var AvatarPage = (function () {
+    function AvatarPage(navCtrl, navParams, alldataProvider) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.alldataProvider = alldataProvider;
+        this.name = '';
+        this.dob = '';
+        this.verFlag = 'unverified';
+        this.verkey = this.alldataProvider.gettvarkey();
+        console.log("get from provider", this.verkey);
+        this.setName();
+    }
+    AvatarPage.prototype.setName = function () {
+        this.name = this.alldataProvider.getname();
+        this.dob = this.alldataProvider.getdob();
+        this.verFlag = this.alldataProvider.setVerFlag();
+    };
+    AvatarPage.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad AvatarPage');
+    };
+    AvatarPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-avatar',template:/*ion-inline-start:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/avatar/avatar.html"*/'<!--\n  Generated template for the AvatarPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n    <ion-navbar>\n      <ion-title>verification</ion-title>\n      <ion-buttons end>\n          <button ion-button menuToggle icon-only >\n            <ion-icon name="options"></ion-icon>\n          </button>\n        </ion-buttons>\n    </ion-navbar>\n  </ion-header>\n  \n\n\n<ion-content padding>\n\n    <ion-grid style="width:100% ; height:100vh  ;padding: 0;">\n        <ion-row style="margin-top: 41px;width: 100%;height: 6vh;font-size: 17px;margin-bottom: -20px;">\n            <ion-col col-2>\n              </ion-col>\n              <ion-col col-7> \n                  <span style="margin-left: 20px;">status: {{verFlag}}</span>\n                  <ion-icon [ngClass]="{\'red\':verFlag!=\'verified\', \'green\':verFlag==\'verified\'}"  ios="ios-radio-button-on" md="md-radio-button-on"></ion-icon>\n              </ion-col>\n              <ion-col col-3>\n              </ion-col> \n        </ion-row>\n        <ion-row style="width:100% ; height:18vh">\n            <ion-col col-2>\n            </ion-col>\n          <ion-col col-8 class="center">\n          <div>\n              <img src="assets/imgs/profile.jpg" class="mavatar">\n          </div>\n          \n          </ion-col>\n          <ion-col col-2>\n          </ion-col>\n        </ion-row>\n        <ion-row style="width:100% ; height:2vh;">\n        </ion-row>\n        <ion-row style="width:100% ; height:5vh;border-bottom: 2px solid #205666;margin-bottom: 24px;">\n            <ion-col col-4>\n              <span>Name:</span>\n              </ion-col>\n              <ion-col col-2>           \n              </ion-col>\n          <ion-col col-6 class="">\n            <span>{{name}}</span>\n          </ion-col>         \n        </ion-row>\n        <ion-row style="width:100% ; height:5vh;border-bottom: 2px solid #205666;margin-bottom: 24px;">\n            <ion-row style="width:100% ; height:14vh">\n                <ion-col col-4>\n                  <span>Date of Birth::</span>\n                  </ion-col>\n                  <ion-col col-2>           \n                  </ion-col>\n              <ion-col col-6 class="">\n                <span>{{dob}}</span>\n              </ion-col>         \n            </ion-row>\n        </ion-row>\n       \n        <ion-row style="width:100% ;height: 35vh;" >\n            <ion-col col-3>\n              </ion-col>\n          <ion-col col-5 class="center">\n            <qrcode [qrdata]= "verkey" [size]="256"  [level]="\'M\'"></qrcode >                    \n          </ion-col>\n          <ion-col col-3>\n          </ion-col>\n        </ion-row> \n                     \n       \n \n            <ion-row style="width:100% ; height:5vh;">\n                <p style="color:gray; margin-bottom: 0px;    font-size: 14px;" class="_center signin" >powered by <span style="color:#488aff;">tykn.tech </span></p>                                \n              </ion-row>\n      </ion-grid> \n</ion-content>\n'/*ion-inline-end:"/Users/mostafasakr/Ionic Applications/BlockChaingersHackathon2018/BlockChaingersHackathon2018/src/pages/avatar/avatar.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* NavParams */], __WEBPACK_IMPORTED_MODULE_2__providers_alldata_alldata__["a" /* AlldataProvider */]])
+    ], AvatarPage);
+    return AvatarPage;
+}());
+
+//# sourceMappingURL=avatar.js.map
+
+/***/ })
+
+},[206]);
+//# sourceMappingURL=main.js.map
