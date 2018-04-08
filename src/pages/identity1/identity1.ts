@@ -2,6 +2,8 @@ import { Component } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
 import { ViewController } from 'ionic-angular';
 import { Identity2Page } from '../identity2/identity2';
+import { AlldataProvider } from '../../providers/alldata/alldata';
+import { NgModel } from '@angular/forms';
 /**
  * Generated class for the Identity1Page page.
  *
@@ -14,8 +16,13 @@ import { ToastController } from 'ionic-angular';
   templateUrl: 'identity1.html',
 })
 export class Identity1Page {
+  name: string = '';
+  dob: string = '';
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public viewCtrl :ViewController,public toastCtrl : ToastController) {
+  constructor(public navCtrl: NavController, 
+    public navParams: NavParams, public viewCtrl :ViewController,
+    private alldataProvider: AlldataProvider,
+    public toastCtrl : ToastController) {
   }
 
   ionViewDidLoad() {
@@ -31,6 +38,8 @@ export class Identity1Page {
     toast.present();
   };
   gotoIdentity2(event){
+    console.log("name", this.name, this.dob);
+    this.alldataProvider.setName(this.name,this.dob);
     this.navCtrl.push(Identity2Page, {      
     });
   }

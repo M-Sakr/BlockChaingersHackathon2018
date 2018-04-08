@@ -11,10 +11,13 @@ import { Identity2Page } from '../pages/identity2/identity2';
 import { Backup2Page } from '../pages/backup2/backup2';
 import { AvatarPage } from '../pages/avatar/avatar';
 import { RecoverPage } from '../pages/recover/recover';
+import { VerkeyPage } from '../pages/verkey/verkey';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { AlldataProvider } from '../providers/alldata/alldata';
+import { QRCodeModule } from 'angularx-qrcode';
+import { HttpModule} from '@angular/http';
 
 @NgModule({
   declarations: [
@@ -25,10 +28,12 @@ import { AlldataProvider } from '../providers/alldata/alldata';
     Identity1Page,
     Identity2Page,
     Backup2Page,
-    AvatarPage,RecoverPage
+    AvatarPage,RecoverPage,VerkeyPage
   ],
   imports: [
+    HttpModule,
     BrowserModule,
+    QRCodeModule,
     IonicModule.forRoot(MyApp, {
       scrollAssist: true,
       autoFocusAssist: true
@@ -43,7 +48,7 @@ import { AlldataProvider } from '../providers/alldata/alldata';
     Identity1Page,
     Identity2Page,
     Backup2Page,
-    AvatarPage,RecoverPage
+    AvatarPage,RecoverPage,VerkeyPage
   ],
   providers: [
     StatusBar,

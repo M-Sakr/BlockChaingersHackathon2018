@@ -18,16 +18,19 @@ import { AvatarPage } from '../avatar/avatar';
 export class Backup2Page {
 
   @ViewChild(Slides) slides: Slides;
-  
-  
+  parameter1 =[];
+  mydata=[];
   constructor(public navCtrl: NavController, public navParams: NavParams) {
-    
+    this.parameter1 = navParams.get('param1'); 
+    console.log("my param",this.parameter1);
+    this.mydata= [
+      {text:"Do you want to share a part of your recovery key with the Red Cross ",index:"",id:1,code:""}
+      ,{text:"Save the SECOND recovery code of your ID",index:"",id:2,code:this.parameter1[1]},
+      {text:"Save the THIRD recovery code of your ID",index:"",id:3,code:this.parameter1[2]}
+    ];
   }
-  mydata =[
-    {text:"Save the FIRST recovery code of your ID",index:"",id:1,code:"30t48890r509wf09dfj"}
-    ,{text:"Save the SECOND recovery code of your ID",index:"",id:2,code:"234uas8f7q342troiuuqrti"},
-    {text:"Save the THIRD recovery code of your ID",index:"",id:3,code:"390458dfijqsdfij34ropusf"}
-  ];
+ 
+
   goToSlide() {
     this.slides.slideNext();
   }

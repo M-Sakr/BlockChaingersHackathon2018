@@ -6,21 +6,27 @@
 -->
 <ion-header>
 
-  <ion-navbar>
-  </ion-navbar>
-
-</ion-header>
+    <ion-navbar>
+      <ion-title>verification</ion-title>
+      <ion-buttons end>
+          <button ion-button menuToggle icon-only >
+            <ion-icon name="options"></ion-icon>
+          </button>
+        </ion-buttons>
+    </ion-navbar>
+  </ion-header>
+  
 
 
 <ion-content padding>
 
     <ion-grid style="width:100% ; height:100vh  ;padding: 0;">
         <ion-row style="margin-top: 41px;width: 100%;height: 6vh;font-size: 17px;margin-bottom: -20px;">
-            <ion-col col-3>
+            <ion-col col-2>
               </ion-col>
-              <ion-col col-6> 
-                  <span style="margin-left: 20px;">status : verified</span>
-                  <ion-icon [ngClass]="{'green':1 == 1}"  ios="ios-radio-button-on" md="md-radio-button-on"></ion-icon>
+              <ion-col col-7> 
+                  <span style="margin-left: 20px;">status: {{verFlag}}</span>
+                  <ion-icon [ngClass]="{'red':verFlag!='verified', 'green':verFlag=='verified'}"  ios="ios-radio-button-on" md="md-radio-button-on"></ion-icon>
               </ion-col>
               <ion-col col-3>
               </ion-col> 
@@ -46,7 +52,7 @@
               <ion-col col-2>           
               </ion-col>
           <ion-col col-6 class="">
-            <span>Maria Ana</span>
+            <span>{{name}}</span>
           </ion-col>         
         </ion-row>
         <ion-row style="width:100% ; height:5vh;border-bottom: 2px solid #205666;margin-bottom: 24px;">
@@ -57,7 +63,7 @@
                   <ion-col col-2>           
                   </ion-col>
               <ion-col col-6 class="">
-                <span>30-04-1990</span>
+                <span>{{dob}}</span>
               </ion-col>         
             </ion-row>
         </ion-row>
@@ -66,7 +72,7 @@
             <ion-col col-3>
               </ion-col>
           <ion-col col-5 class="center">
-            <img  style="width: 100%;" src="assets/imgs/qr-code.png" border="0" alt="" class="img_ad">
+            <qrcode [qrdata]= "verkey" [size]="256"  [level]="'M'"></qrcode >                    
           </ion-col>
           <ion-col col-3>
           </ion-col>

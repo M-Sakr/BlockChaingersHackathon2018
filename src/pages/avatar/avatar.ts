@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
-
+import { AlldataProvider } from '../../providers/alldata/alldata';
 /**
  * Generated class for the AvatarPage page.
  *
@@ -13,10 +13,20 @@ import { NavController, NavParams } from 'ionic-angular';
   templateUrl: 'avatar.html',
 })
 export class AvatarPage {
-
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  verkey:string;
+  name: string = '';
+  dob: string = '';
+  verFlag: string = 'unverified';
+  constructor(public navCtrl: NavController, public navParams: NavParams,public alldataProvider:AlldataProvider) {
+    this.verkey=this.alldataProvider.gettvarkey();
+    console.log("get from provider",this.verkey);
+    this.setName();
   }
-
+setName(){
+  this.name = this.alldataProvider.getname();
+  this.dob = this.alldataProvider.getdob();
+  this.verFlag = this.alldataProvider.setVerFlag();
+}
   ionViewDidLoad() {
     console.log('ionViewDidLoad AvatarPage');
   }
